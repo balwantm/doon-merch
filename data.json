@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Russian",
+    "price": "6000 Rs",
+    "description": "Hoodie",
+    "imageLinks": 
+      "https://themewagon.github.io/cozastore/images/product-13.jpg", 
+    "category": "tshirt",
+    "link": "https://www.google.com"
+  },
+	{
+	"name": "Brunette",
+	"price": "8000 Rs",
+	"description": "tshirt",
+	"imageLinks": "https://themewagon.github.io/cozastore/images/product-10.jpg",
+	
+	"category": "zipper",
+	"link": "https://www.yay.com"
+	},
+	{
+	"name": "Lightweight Jacket",
+	"price": "$58.79",
+	"description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+	"imageLinks": "https://themewagon.github.io/cozastore/images/product-detail-02.jpg",
+	"category": "jacket",
+	"link": "https://www.yay.com"
+	},
+	{
+		"name": "IIT Patna Black TShirt Design 1",
+		"price": "349 Rs",
+		"description": "Hbackwdhg",
+		"imageLinks": 
+		  "https://drive.google.com/file/d/1lNN4tvrJbfSEFyoNbGU9oBbW5CpV_YM1/view?usp=drive_link", 
+		"category": "iitp",
+		"link": "https://gform.com"
+	  }
+]
+
