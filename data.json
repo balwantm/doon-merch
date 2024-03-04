@@ -262,5 +262,45 @@
 																																		"imageLinks": "IIT PATNA DESIGN 3 LOW.png",
 																																		"category": "t-shirt",
 																																		"link": "https://forms.gle/oFApw4FfkP85YcSQ9"
-																																		}
+																																		},
+																																		{
+																																			"name": "White Plain T-Shirt",
+																																			"price": "Rs 249 (50% Off)",
+																																			"description": "",
+																																			"imageLinks": "white.jpg",
+																																			"category": "plain",
+																																			"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																			},
+																																			{
+																																				"name": "Black Plain T-Shirt",
+																																				"price": "Rs 249 (50% Off)",
+																																				"description": "",
+																																				"imageLinks": "black.jpg",
+																																				"category": "plain",
+																																				"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																				},
+																																				{
+																																					"name": "Yellow Plain T-Shirt",
+																																					"price": "Rs 249 (50% Off)",
+																																					"description": "",
+																																					"imageLinks": "yellow.png",
+																																					"category": "plain",
+																																					"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																					},
+																																					{
+																																						"name": "Red Plain T-Shirt",
+																																						"price": "Rs 249 (50% Off)",
+																																						"description": "",
+																																						"imageLinks": "red.jpg",
+																																						"category": "plain",
+																																						"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																						},
+																																						{
+																																							"name": "Navy Blue Plain T-Shirt",
+																																							"price": "Rs 249 (50% Off)",
+																																							"description": "",
+																																							"imageLinks": "navy blue.jpg",
+																																							"category": "plain",
+																																							"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																							}
 ]																											
