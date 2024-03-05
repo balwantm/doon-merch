@@ -74,7 +74,7 @@ func generateItemsHTML(items []Item) string {
 	itemTemplate := `
 	<div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col idk {{.Category}}">
 				<a href="{{.Index}}.html">
-					<img class="hover:grow hover:shadow-lg object-scale-down"
+					<img loading="lazy" class="hover:grow hover:shadow-lg object-scale-down"
 						src="https://balwantm.github.io/doon-merch/images/{{.ImageLink}}">
 					<div class="pt-3 flex items-center justify-between">
 						<p class="">{{.Name}}</p>
@@ -129,7 +129,7 @@ func createNamePriceFile(filename string, newIndexHTML string, item Item) error 
 						
 						<img
 							src="https://balwantm.github.io/doon-merch/images/{{.ImageLink}}"
-							alt="sneaker"
+							loading = "lazy"
 							class="block sm:rounded-xl xl:w-[70%] xl:rounded-xl m-auto pointer-events-none transition duration-300 lg:w-3/4 lg:pointer-events-auto lg:cursor-pointer lg:hover:shadow-xl"
 							id="hero"
 						/>
