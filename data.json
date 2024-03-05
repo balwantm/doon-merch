@@ -302,5 +302,38 @@
 																																							"imageLinks": "navy blue.jpg",
 																																							"category": "plain",
 																																							"link": "https://forms.gle/FzubhWGUgGmJpBym9"
-																																							}
+																																							},
+																																							{
+																																								"name": "IIT Jodhpur Black T-Shirt Design 1",
+																																								"price": "Rs 349 (50% Off)",
+																																								"description": "",
+																																								"imageLinks": "IIT JODHPUR DESIGN 1.png",
+																																								"category": "iitj",
+																																								"link": ""
+																																								},
+																																								{
+																																									"name": "IIT Jodhpur Black T-Shirt Design 2",
+																																									"price": "Rs 349 (50% Off)",
+																																									"description": "",
+																																									"imageLinks": "IIT JODHPUR DESIGN 2.png",
+																																									"category": "iitj",
+																																									"link": ""
+																																									},
+																																									{
+																																										"name": "IIT Jodhpur White T-Shirt",
+																																										"price": "Rs 349 (50% Off)",
+																																										"description": "",
+																																										"imageLinks": "IIT JODHPUR WHITE.png",
+																																										"category": "iitj",
+																																										"link": ""
+																																										},
+																																										{
+																																											"name": "IIT Jodhpur Polo T-Shirt",
+																																											"price": "Rs 549 (50% Off)",
+																																											"description": "",
+																																											"imageLinks": "IIT JODHPUR POLO.png",
+																																											"category": "iitj",
+																																											"link": ""
+																																											}
+
 ]																											
