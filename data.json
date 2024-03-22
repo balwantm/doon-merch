@@ -624,20 +624,28 @@
 																																																																															"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
 																																																																															},
 																																																																															{
-																																																																																"name": "IIT GOA BLACK T-Shirt",
+																																																																																"name": "IIT JAMMU POLO T-Shirt",
 																																																																																"price": "Rs 349 (50% Off)",
 																																																																																"description": "",
-																																																																																"imageLinks": "IIT GOA BLACK.png",
-																																																																																"category": "iitgoa",
-																																																																																"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
+																																																																																"imageLinks": "IIT JAMMU POLO.png",
+																																																																																"category": "iitjmu",
+																																																																																"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
 																																																																																},
 																																																																																{
-																																																																																	"name": "IIT GOA White T-Shirt",
+																																																																																	"name": "IIT GOA BLACK T-Shirt",
 																																																																																	"price": "Rs 349 (50% Off)",
 																																																																																	"description": "",
-																																																																																	"imageLinks": "IIT GOA WHITE.png",
+																																																																																	"imageLinks": "IIT GOA BLACK.png",
 																																																																																	"category": "iitgoa",
 																																																																																	"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
-																																																																																	}
+																																																																																	},
+																																																																																	{
+																																																																																		"name": "IIT GOA White T-Shirt",
+																																																																																		"price": "Rs 349 (50% Off)",
+																																																																																		"description": "",
+																																																																																		"imageLinks": "IIT GOA WHITE.png",
+																																																																																		"category": "iitgoa",
+																																																																																		"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
+																																																																																		}
 
 ]																											
