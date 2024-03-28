@@ -156,7 +156,7 @@ func createNamePriceFile(filename string, newIndexHTML string, item Item) error 
 					>
 						<div class="flex items-center gap-4">
 							<h3
-								class="text-very-dark font-bold text-3xl inline-block"
+								class="text-very-dark font-bold text-2xl inline-block"
 							>
 	{{.Price}}	
 							</h3>
