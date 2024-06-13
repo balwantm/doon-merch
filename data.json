@@ -1,7 +1,7 @@
 [
 	  {
 		"name": "IIT Patna Black T-Shirt Design 1",
-		"price": "Rs 349 (Out Of Stock)",
+		"price": "Rs OUT OF STOCK",
 		"description": "",
 		"imageLinks": "low low 7.png",
 		"category": "iitp",
@@ -9,7 +9,7 @@
 		},
 		{
 			"name": "IIT Patna Black T-Shirt Design 2",
-			"price": "Rs 349 (Out Of Stock)",
+			"price": "Rs OUT OF STOCK",
 			"description": "",
 			"imageLinks": "IIT PATNA BLACK DESIGN 2.png",
 			"category": "iitp",
@@ -17,7 +17,7 @@
 			},
 			{
 				"name": "IIT Patna Black T-Shirt Design 3",
-				"price": "Rs 349 (Out Of Stock)",
+				"price": "Rs OUT OF STOCK",
 				"description": "",
 				"imageLinks": "IIT PATNA BLACK DESIGN 3.png",
 				"category": "iitp",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "IIT Patna Black T-Shirt Design 4",
-					"price": "Rs 349 (Out Of Stock)",
+					"price": "Rs OUT OF STOCK",
 					"description": "",
 					"imageLinks": "IIT PATNA BLACK DESIGN 4.png",
 					"category": "iitp",
@@ -33,7 +33,7 @@
 					},
 					{
 						"name": "IIT Patna Black T-Shirt Design 5",
-						"price": "Rs 349 (Out Of Stock)",
+						"price": "Rs OUT OF STOCK",
 						"description": "",
 						"imageLinks": "IIT PATNA BLACK DESIGN 5.png",
 						"category": "iitp",
@@ -41,7 +41,7 @@
 						},
 						{
 							"name": "IIT Patna Black T-Shirt Design 6",
-							"price": "Rs 349 (Out Of Stock)",
+							"price": "Rs OUT OF STOCK",
 							"description": "",
 							"imageLinks": "IIT PATNA BLACK DESIGN 6.png",
 							"category": "iitp",
@@ -49,7 +49,7 @@
 							},
 							{
 								"name": "IIT Patna Black T-Shirt Design 7",
-								"price": "Rs 349 (Out Of Stock)",
+								"price": "Rs OUT OF STOCK",
 								"description": "",
 								"imageLinks": "IIT PATNA BLACK DESIGN 7.png",
 								"category": "iitp",
@@ -57,7 +57,7 @@
 								},
 								{
 									"name": "IIT Patna Black T-Shirt Design 8",
-									"price": "Rs 349 (Out Of Stock)",
+									"price": "Rs OUT OF STOCK",
 									"description": "",
 									"imageLinks": "IIT PATNA BLACK DESIGN 8.png",
 									"category": "iitp",
@@ -65,7 +65,7 @@
 									},
 									{
 										"name": "IIT Patna White T-Shirt Design 1",
-										"price": "Rs 349 (Out Of Stock)",
+										"price": "Rs OUT OF STOCK",
 										"description": "",
 										"imageLinks": "IIT PATNA WHITE DESIGN 1.png",
 										"category": "iitp",
@@ -73,7 +73,7 @@
 										},
 										{
 											"name": "IIT Patna White T-Shirt Design 2",
-											"price": "Rs 349 (Out Of Stock)",
+											"price": "Rs OUT OF STOCK",
 											"description": "",
 											"imageLinks": "IIT PATNA WHITE DESIGN 2.png",
 											"category": "iitp",
@@ -81,7 +81,7 @@
 											},
 											{
 												"name": "IIT Patna White T-Shirt Design 3",
-												"price": "Rs 349 (Out Of Stock)",
+												"price": "Rs OUT OF STOCK",
 												"description": "",
 												"imageLinks": "IIT PATNA WHITE DESIGN 3.png",
 												"category": "iitp",
@@ -89,7 +89,7 @@
 												},
 												{
 													"name": "IIT Patna White T-Shirt Design 4",
-													"price": "Rs 349 (Out Of Stock)",
+													"price": "Rs OUT OF STOCK",
 													"description": "",
 													"imageLinks": "IIT PATNA WHITE DESIGN 4.png",
 													"category": "iitp",
@@ -97,7 +97,7 @@
 													},
 													{
 														"name": "IIT Patna White T-Shirt Design 5",
-														"price": "Rs 349 (Out Of Stock)",
+														"price": "Rs OUT OF STOCK",
 														"description": "",
 														"imageLinks": "IIT PATNA WHITE DESIGN 5.png",
 														"category": "iitp",
@@ -105,7 +105,7 @@
 														},
 														{
 															"name": "IIT Patna White T-Shirt Design 6",
-															"price": "Rs 349 (Out Of Stock)",
+															"price": "Rs OUT OF STOCK",
 															"description": "",
 															"imageLinks": "IIT PATNA WHITE DESIGN 6.png",
 															"category": "iitp",
@@ -113,7 +113,7 @@
 															},
 															{
 																"name": "IIT Patna White T-Shirt Design 7",
-																"price": "Rs 349 (Out Of Stock)",
+																"price": "Rs OUT OF STOCK",
 																"description": "",
 																"imageLinks": "IIT PATNA WHITE DESIGN 7.png",
 																"category": "iitp",
@@ -121,7 +121,7 @@
 																},
 																{
 																	"name": "IIT Patna White T-Shirt Design 8",
-																	"price": "Rs 349 (Out Of Stock)",
+																	"price": "Rs OUT OF STOCK",
 																	"description": "",
 																	"imageLinks": "IIT PATNA WHITE DESIGN 8.png",
 																	"category": "iitp",
@@ -129,7 +129,7 @@
 																	},
 																	{
 																		"name": "IIT Patna Polo T-Shirt Design 1",
-																		"price": "Rs 549 (Out Of Stock)",
+																		"price": "OUT OF STOCK",
 																		"description": "",
 																		"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 1.png",
 																		"category": "iitp",
@@ -137,7 +137,7 @@
 																		},
 																		{
 																			"name": "IIT Patna Polo T-Shirt Design 2",
-																			"price": "Rs 549 (Out Of Stock)",
+																			"price": "OUT OF STOCK",
 																			"description": "",
 																			"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 2.png",
 																			"category": "iitp",
@@ -145,7 +145,7 @@
 																			},
 																			{
 																				"name": "IIT Patna Polo T-Shirt Design 3",
-																				"price": "Rs 549 (Out Of Stock)",
+																				"price": "OUT OF STOCK",
 																				"description": "",
 																				"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 3.png",
 																				"category": "iitp",
@@ -153,7 +153,7 @@
 																				},
 																				{
 																					"name": "IIT Patna Polo T-Shirt Design 4",
-																					"price": "Rs 549 (Out Of Stock)",
+																					"price": "OUT OF STOCK",
 																					"description": "",
 																					"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 4.png",
 																					"category": "iitp",
@@ -161,7 +161,7 @@
 																					},
 																					{
 																						"name": "IIT Patna Polo T-Shirt Design 5",
-																						"price": "Rs 549 (Out Of Stock)",
+																						"price": "OUT OF STOCK",
 																						"description": "",
 																						"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 5.png",
 																						"category": "iitp",
@@ -169,7 +169,7 @@
 																						},
 																						{
 																							"name": "IIT Patna Polo T-Shirt Design 6",
-																							"price": "Rs 549 (Out Of Stock)",
+																							"price": "OUT OF STOCK",
 																							"description": "",
 																							"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 6.png",
 																							"category": "iitp",
@@ -177,7 +177,7 @@
 																							},
 																							{
 																								"name": "IIT Patna Black T-Shirt",
-																								"price": "Rs 349 (50% Off)",
+																								"price": "OUT OF STOCK",
 																								"description": "PI Collection",
 																								"imageLinks": "IIT PATNA DESIGN 2 LOW.png",
 																								"category": "new",
@@ -185,7 +185,7 @@
 																								},
 																								{
 																									"name": "IIT Patna Black T-Shirt",
-																									"price": "Rs 349 (50% Off)",
+																									"price": "OUT OF STOCK",
 																									"description": "PI Collection",
 																									"imageLinks": "IIT PATNA DESIGN 3 LOW.png",
 																									"category": "new",
@@ -193,7 +193,7 @@
 																									},
 																									{
 																										"name": "IIT BHU Black T-Shirt Design 1",
-																										"price": "Rs 349 (50% Off)",
+																										"price": "OUT OF STOCK",
 																										"description": "",
 																										"imageLinks": "IIT BHU BLACK DESIGN 1.png",
 																										"category": "iitbhu",
@@ -201,7 +201,7 @@
 																										},
 																										{
 																											"name": "IIT BHU Black T-Shirt Design 2",
-																											"price": "Rs 349 (50% Off)",
+																											"price": "OUT OF STOCK",
 																											"description": "",
 																											"imageLinks": "IIT BHU BLACK DESIGN 2.png",
 																											"category": "iitbhu",
@@ -209,7 +209,7 @@
 																											},
 																											{
 																												"name": "IIT BHU White T-Shirt Design 1",
-																												"price": "Rs 349 (50% Off)",
+																												"price": "OUT OF STOCK",
 																												"description": "",
 																												"imageLinks": "IIT BHU WHITE DESIGN 1.png",
 																												"category": "iitbhu",
@@ -217,7 +217,7 @@
 																												},
 																												{
 																													"name": "IIT BHU Polo T-Shirt Design 1",
-																													"price": "Rs 549 (50% Off)",
+																													"price": "OUT OF STOCK",
 																													"description": "",
 																													"imageLinks": "IIT BHU POLO T-SHIRT DESIGN 1.png",
 																													"category": "iitbhu",
@@ -225,7 +225,7 @@
 																													},
 																													{
 																														"name": "NIT Patna Black T-Shirt Design 1",
-																														"price": "Rs 349 (50% Off)",
+																														"price": "OUT OF STOCK",
 																														"description": "",
 																														"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 1.png",
 																														"category": "nitp",
@@ -233,7 +233,7 @@
 																														},
 																														{
 																															"name": "NIT Black T-Shirt Design 2",
-																															"price": "Rs 349 (50% Off)",
+																															"price": "OUT OF STOCK",
 																															"description": "",
 																															"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 2.png",
 																															"category": "nitp",
@@ -241,7 +241,7 @@
 																															},
 																															{
 																																"name": "NIT Patna White T-Shirt Design 1",
-																																"price": "Rs 349 (50% Off)",
+																																"price": "OUT OF STOCK",
 																																"description": "",
 																																"imageLinks": "NIT PATNA WHITE T-SHIRT DESIGN 1.png",
 																																"category": "nitp",
@@ -249,7 +249,7 @@
 																																},
 																																{
 																																	"name": "NIT Patna Polo T-Shirt Design 1",
-																																	"price": "Rs 549 (50% Off)",
+																																	"price": "OUT OF STOCK",
 																																	"description": "",
 																																	"imageLinks": "NIT PATNA POLO T-SHIRT DESIGN 1.png",
 																																	"category": "nitp",
@@ -297,7 +297,7 @@
 																																						},
 																																						{
 																																							"name": "IIT Jodhpur Black T-Shirt Design 1",
-																																							"price": "Rs 349 (50% Off)",
+																																							"price": "OUT OF STOCK",
 																																							"description": "",
 																																							"imageLinks": "IIT JODHUR BLACK DESIGN 1.png",
 																																							"category": "iitj",
@@ -305,7 +305,7 @@
 																																							},
 																																							{
 																																								"name": "IIT Jodhpur Black T-Shirt Design 2",
-																																								"price": "Rs 349 (50% Off)",
+																																								"price": "OUT OF STOCK",
 																																								"description": "",
 																																								"imageLinks": "IIT JODHUR BLACK DESIGN 2.png",
 																																								"category": "iitj",
@@ -313,7 +313,7 @@
 																																								},
 																																								{
 																																									"name": "IIT Jodhpur White T-Shirt",
-																																									"price": "Rs 349 (50% Off)",
+																																									"price": "OUT OF STOCK",
 																																									"description": "",
 																																									"imageLinks": "IIT JODHPUR WHITE.png",
 																																									"category": "iitj",
@@ -321,7 +321,7 @@
 																																									},
 																																									{
 																																										"name": "IIT Jodhpur Polo T-Shirt",
-																																										"price": "Rs 549 (50% Off)",
+																																										"price": "OUT OF STOCK",
 																																										"description": "",
 																																										"imageLinks": "IIT JODHPUR POLO.png",
 																																										"category": "iitj",
@@ -329,7 +329,7 @@
 																																										},
 																																										{
 																																											"name": "IIT KGP Black T-Shirt",
-																																											"price": "Rs 349 (50% Off)",
+																																											"price": "OUT OF STOCK",
 																																											"description": "",
 																																											"imageLinks": "IIT KGP BLACK.png",
 																																											"category": "iitkgp",
@@ -337,7 +337,7 @@
 																																											},
 																																											{
 																																												"name": "IIT KGP White T-Shirt",
-																																												"price": "Rs 349 (50% Off)",
+																																												"price": "OUT OF STOCK",
 																																												"description": "",
 																																												"imageLinks": "IIT KGP WHITE.png",
 																																												"category": "iitkgp",
@@ -345,7 +345,7 @@
 																																												},
 																																												{
 																																													"name": "IIT BOMBAY BLACK T-Shirt",
-																																													"price": "Rs 349 (50% Off)",
+																																													"price": "OUT OF STOCK",
 																																													"description": "",
 																																													"imageLinks": "IIT BOMBAY BLACK.png",
 																																													"category": "iitb",
@@ -353,7 +353,7 @@
 																																													},
 																																													{
 																																														"name": "IIT BOMBAY White T-Shirt",
-																																														"price": "Rs 349 (50% Off)",
+																																														"price": "OUT OF STOCK",
 																																														"description": "",
 																																														"imageLinks": "IIT BOMBAY WHITE.png",
 																																														"category": "iitb",
@@ -361,7 +361,7 @@
 																																														},
 																																														{
 																																															"name": "IIT MADRAS BLACK T-Shirt",
-																																															"price": "Rs 349 (50% Off)",
+																																															"price": "OUT OF STOCK",
 																																															"description": "",
 																																															"imageLinks": "IIT MADRAS BLACK.png",
 																																															"category": "iitm",
@@ -369,7 +369,7 @@
 																																															},
 																																															{
 																																																"name": "IIT MADRAS White T-Shirt",
-																																																"price": "Rs 349 (50% Off)",
+																																																"price": "OUT OF STOCK",
 																																																"description": "",
 																																																"imageLinks": "IIT MADRAS WHITE.png",
 																																																"category": "iitm",
@@ -377,7 +377,7 @@
 																																																},
 																																																{
 																																																	"name": "IIT KANPUR BLACK T-Shirt",
-																																																	"price": "Rs 349 (50% Off)",
+																																																	"price": "OUT OF STOCK",
 																																																	"description": "",
 																																																	"imageLinks": "IIT KANPUR BLACK.png",
 																																																	"category": "iitk",
@@ -385,7 +385,7 @@
 																																																	},
 																																																	{
 																																																		"name": "IIT KANPUR White T-Shirt",
-																																																		"price": "Rs 349 (50% Off)",
+																																																		"price": "OUT OF STOCK",
 																																																		"description": "",
 																																																		"imageLinks": "IIT KANPUR WHITE.png",
 																																																		"category": "iitk",
@@ -393,7 +393,7 @@
 																																																		},
 																																																		{
 																																																			"name": "IIT DELHI BLACK T-Shirt",
-																																																			"price": "Rs 349 (50% Off)",
+																																																			"price": "OUT OF STOCK",
 																																																			"description": "",
 																																																			"imageLinks": "IIT DELHI BLACK.png",
 																																																			"category": "iitd",
@@ -401,7 +401,7 @@
 																																																			},
 																																																			{
 																																																				"name": "IIT DELHI White T-Shirt",
-																																																				"price": "Rs 349 (50% Off)",
+																																																				"price": "OUT OF STOCK",
 																																																				"description": "",
 																																																				"imageLinks": "IIT DELHI WHITE.png",
 																																																				"category": "iitd",
@@ -409,7 +409,7 @@
 																																																				},
 																																																				{
 																																																					"name": "IIT GUWAHATI BLACK T-Shirt",
-																																																					"price": "Rs 349 (50% Off)",
+																																																					"price": "OUT OF STOCK",
 																																																					"description": "",
 																																																					"imageLinks": "IIT GUWAHATI BLACK.png",
 																																																					"category": "iitg",
@@ -417,7 +417,7 @@
 																																																					},
 																																																					{
 																																																						"name": "IIT GUWAHATI White T-Shirt",
-																																																						"price": "Rs 349 (50% Off)",
+																																																						"price": "OUT OF STOCK",
 																																																						"description": "",
 																																																						"imageLinks": "IIT GUWAHATI WHITE.png",
 																																																						"category": "iitg",
@@ -425,7 +425,7 @@
 																																																						},
 																																																						{
 																																																							"name": "IIT ROORKEE BLACK T-Shirt",
-																																																							"price": "Rs 349 (50% Off)",
+																																																							"price": "OUT OF STOCK",
 																																																							"description": "",
 																																																							"imageLinks": "IIT ROORKEE BLACK.png",
 																																																							"category": "iitr",
@@ -433,7 +433,7 @@
 																																																							},
 																																																							{
 																																																								"name": "IIT ROORKEE White T-Shirt",
-																																																								"price": "Rs 349 (50% Off)",
+																																																								"price": "OUT OF STOCK",
 																																																								"description": "",
 																																																								"imageLinks": "IIT ROORKEE WHITE.png",
 																																																								"category": "iitr",
@@ -441,7 +441,7 @@
 																																																								},
 																																																								{
 																																																									"name": "IIT MANDI BLACK T-Shirt",
-																																																									"price": "Rs 349 (50% Off)",
+																																																									"price": "OUT OF STOCK",
 																																																									"description": "",
 																																																									"imageLinks": "IIT MANDI BLACK.png",
 																																																									"category": "iitmd",
@@ -449,7 +449,7 @@
 																																																									},
 																																																									{
 																																																										"name": "IIT MANDI White T-Shirt",
-																																																										"price": "Rs 349 (50% Off)",
+																																																										"price": "OUT OF STOCK",
 																																																										"description": "",
 																																																										"imageLinks": "IIT MANDI WHITE.png",
 																																																										"category": "iitmd",
@@ -457,7 +457,7 @@
 																																																										},
 																																																										{
 																																																											"name": "IIT ROPAR BLACK T-Shirt",
-																																																											"price": "Rs 349 (50% Off)",
+																																																											"price": "OUT OF STOCK",
 																																																											"description": "",
 																																																											"imageLinks": "IIT ROPAR BLACK.png",
 																																																											"category": "iitrpr",
@@ -465,7 +465,7 @@
 																																																											},
 																																																											{
 																																																												"name": "IIT ROPAR White T-Shirt",
-																																																												"price": "Rs 349 (50% Off)",
+																																																												"price": "OUT OF STOCK",
 																																																												"description": "",
 																																																												"imageLinks": "IIT ROPAR WHITE.png",
 																																																												"category": "iitrpr",
@@ -473,7 +473,7 @@
 																																																												},
 																																																												{
 																																																													"name": "IIT BHUBANESWAR BLACK T-Shirt",
-																																																													"price": "Rs 349 (50% Off)",
+																																																													"price": "OUT OF STOCK",
 																																																													"description": "",
 																																																													"imageLinks": "IIT BHUBANESWAR BLACK.png",
 																																																													"category": "iitbbs",
@@ -481,7 +481,7 @@
 																																																													},
 																																																													{
 																																																														"name": "IIT BHUBANESWAR White T-Shirt",
-																																																														"price": "Rs 349 (50% Off)",
+																																																														"price": "OUT OF STOCK",
 																																																														"description": "",
 																																																														"imageLinks": "IIT BHUBANESWAR WHITE.png",
 																																																														"category": "iitbbs",
@@ -489,7 +489,7 @@
 																																																														},
 																																																														{
 																																																															"name": "IIT GANDHINAGAR BLACK T-Shirt",
-																																																															"price": "Rs 349 (50% Off)",
+																																																															"price": "OUT OF STOCK",
 																																																															"description": "",
 																																																															"imageLinks": "IIT GANDHINAGAR BLACK.png",
 																																																															"category": "iitgn",
@@ -497,7 +497,7 @@
 																																																															},
 																																																															{
 																																																																"name": "IIT GANDHINAGAR White T-Shirt",
-																																																																"price": "Rs 349 (50% Off)",
+																																																																"price": "OUT OF STOCK",
 																																																																"description": "",
 																																																																"imageLinks": "IIT GANDHINAGAR WHITE.png",
 																																																																"category": "iitgn",
@@ -505,7 +505,7 @@
 																																																																},
 																																																																{
 																																																																	"name": "IIT HYDERABAD BLACK T-Shirt",
-																																																																	"price": "Rs 349 (50% Off)",
+																																																																	"price": "OUT OF STOCK",
 																																																																	"description": "",
 																																																																	"imageLinks": "IIT HYDERABAD BLACK.png",
 																																																																	"category": "iith",
@@ -513,7 +513,7 @@
 																																																																	},
 																																																																	{
 																																																																		"name": "IIT HYDERABAD White T-Shirt",
-																																																																		"price": "Rs 349 (50% Off)",
+																																																																		"price": "OUT OF STOCK",
 																																																																		"description": "",
 																																																																		"imageLinks": "IIT HYDERABAD WHITE.png",
 																																																																		"category": "iith",
@@ -521,7 +521,7 @@
 																																																																		},
 																																																																		{
 																																																																			"name": "IIT PALAKKAD BLACK T-Shirt",
-																																																																			"price": "Rs 349 (50% Off)",
+																																																																			"price": "OUT OF STOCK",
 																																																																			"description": "",
 																																																																			"imageLinks": "IIT PALAKKAD BLACK.png",
 																																																																			"category": "iitpkd",
@@ -529,7 +529,7 @@
 																																																																			},
 																																																																			{
 																																																																				"name": "IIT PALAKKAD White T-Shirt",
-																																																																				"price": "Rs 349 (50% Off)",
+																																																																				"price": "OUT OF STOCK",
 																																																																				"description": "",
 																																																																				"imageLinks": "IIT PALAKKAD WHITE.png",
 																																																																				"category": "iitpkd",
@@ -537,7 +537,7 @@
 																																																																				},
 																																																																				{
 																																																																					"name": "IIT TIRUPATI BLACK T-Shirt",
-																																																																					"price": "Rs 349 (50% Off)",
+																																																																					"price": "OUT OF STOCK",
 																																																																					"description": "",
 																																																																					"imageLinks": "IIT TIRUPATI BLACK.png",
 																																																																					"category": "iitt",
@@ -545,7 +545,7 @@
 																																																																					},
 																																																																					{
 																																																																						"name": "IIT TIRUPATI White T-Shirt",
-																																																																						"price": "Rs 349 (50% Off)",
+																																																																						"price": "OUT OF STOCK",
 																																																																						"description": "",
 																																																																						"imageLinks": "IIT TIRUPATI WHITE.png",
 																																																																						"category": "iitt",
@@ -553,7 +553,7 @@
 																																																																						},
 																																																																						{
 																																																																							"name": "IIT DHANBAD BLACK T-Shirt",
-																																																																							"price": "Rs 349 (50% Off)",
+																																																																							"price": "OUT OF STOCK",
 																																																																							"description": "",
 																																																																							"imageLinks": "IIT DHANBAD BLACK.png",
 																																																																							"category": "iitdhn",
@@ -561,7 +561,7 @@
 																																																																							},
 																																																																							{
 																																																																								"name": "IIT DHANBAD White T-Shirt",
-																																																																								"price": "Rs 349 (50% Off)",
+																																																																								"price": "OUT OF STOCK",
 																																																																								"description": "",
 																																																																								"imageLinks": "IIT DHANBAD WHITE.png",
 																																																																								"category": "iitdhn",
@@ -569,7 +569,7 @@
 																																																																								},
 																																																																								{
 																																																																									"name": "IIT BHILAI BLACK T-Shirt",
-																																																																									"price": "Rs 349 (50% Off)",
+																																																																									"price": "OUT OF STOCK",
 																																																																									"description": "",
 																																																																									"imageLinks": "IIT BHILAI BLACK.png",
 																																																																									"category": "iitbh",
@@ -577,7 +577,7 @@
 																																																																									},
 																																																																									{
 																																																																										"name": "IIT BHILAI White T-Shirt",
-																																																																										"price": "Rs 349 (50% Off)",
+																																																																										"price": "OUT OF STOCK",
 																																																																										"description": "",
 																																																																										"imageLinks": "IIT BHILAI WHITE.png",
 																																																																										"category": "iitbh",
@@ -585,7 +585,7 @@
 																																																																										},
 																																																																										{
 																																																																											"name": "IIT DHARWAD BLACK T-Shirt",
-																																																																											"price": "Rs 349 (50% Off)",
+																																																																											"price": "OUT OF STOCK",
 																																																																											"description": "",
 																																																																											"imageLinks": "IIT DHARWAD BLACK.png",
 																																																																											"category": "iitdh",
@@ -593,7 +593,7 @@
 																																																																											},
 																																																																											{
 																																																																												"name": "IIT DHARWAD White T-Shirt",
-																																																																												"price": "Rs 349 (50% Off)",
+																																																																												"price": "OUT OF STOCK",
 																																																																												"description": "",
 																																																																												"imageLinks": "IIT DHARWAD WHITE.png",
 																																																																												"category": "iitdh",
@@ -601,7 +601,7 @@
 																																																																												},
 																																																																												{
 																																																																													"name": "IIT JAMMU BLACK T-Shirt",
-																																																																													"price": "Rs 349 (50% Off)",
+																																																																													"price": "OUT OF STOCK",
 																																																																													"description": "",
 																																																																													"imageLinks": "IIT JAMMU BLACK.png",
 																																																																													"category": "iitjmu",
@@ -609,7 +609,7 @@
 																																																																													},
 																																																																													{
 																																																																														"name": "IIT JAMMU White T-Shirt",
-																																																																														"price": "Rs 349 (50% Off)",
+																																																																														"price": "OUT OF STOCK",
 																																																																														"description": "",
 																																																																														"imageLinks": "IIT JAMMU WHITE.png",
 																																																																														"category": "iitjmu",
@@ -617,7 +617,7 @@
 																																																																														},
 																																																																														{
 																																																																															"name": "IIT JAMMU POLO T-Shirt",
-																																																																															"price": "Rs 549 (50% Off)",
+																																																																															"price": "OUT OF STOCK",
 																																																																															"description": "",
 																																																																															"imageLinks": "IIT JAMMU POLO copy.png",
 																																																																															"category": "iitjmu",
@@ -625,7 +625,7 @@
 																																																																															},
 																																																																															{
 																																																																																"name": "IIT GOA BLACK T-Shirt",
-																																																																																"price": "Rs 349 (50% Off)",
+																																																																																"price": "OUT OF STOCK",
 																																																																																"description": "",
 																																																																																"imageLinks": "IIT GOA BLACK.png",
 																																																																																"category": "iitgoa",
@@ -633,7 +633,7 @@
 																																																																																},
 																																																																																{
 																																																																																	"name": "IIT GOA White T-Shirt",
-																																																																																	"price": "Rs 349 (50% Off)",
+																																																																																	"price": "OUT OF STOCK",
 																																																																																	"description": "",
 																																																																																	"imageLinks": "IIT GOA WHITE.png",
 																																																																																	"category": "iitgoa",
@@ -641,7 +641,7 @@
 																																																																																	},
 																																																																																	{
 																																																																																		"name": "NIT JAIPUR BLACK T-Shirt",
-																																																																																		"price": "Rs 349 (50% Off)",
+																																																																																		"price": "OUT OF STOCK",
 																																																																																		"description": "",
 																																																																																		"imageLinks": "NIT JAIPUR BLACK.png",
 																																																																																		"category": "mnit",
@@ -649,7 +649,7 @@
 																																																																																		},
 																																																																																		{
 																																																																																			"name": "NIT JAIPUR White T-Shirt",
-																																																																																			"price": "Rs 349 (50% Off)",
+																																																																																			"price": "OUT OF STOCK",
 																																																																																			"description": "",
 																																																																																			"imageLinks": "NIT JAIPUR WHITE.png",
 																																																																																			"category": "mnit",
@@ -657,7 +657,7 @@
 																																																																																			},
 																																																																																			{
 																																																																																				"name": "NIT JAIPUR POLO T-Shirt",
-																																																																																				"price": "Rs 349 (50% Off)",
+																																																																																				"price": "OUT OF STOCK",
 																																																																																				"description": "",
 																																																																																				"imageLinks": "NIT JAIPUR POLO.png",
 																																																																																				"category": "mnit",
@@ -665,7 +665,7 @@
 																																																																																				},
 																																																																																				{
 																																																																																					"name": "IIT Patna Computer Science Branch T-Shirt",
-																																																																																					"price": "Rs 349 (50% Off)",
+																																																																																					"price": "OUT OF STOCK",
 																																																																																					"description": "",
 																																																																																					"imageLinks": "CSE.png",
 																																																																																					"category": "dtee",
@@ -673,7 +673,7 @@
 																																																																																					},
 																																																																																					{
 																																																																																						"name": "IIT Patna Electrical Branch T-Shirt",
-																																																																																						"price": "Rs 349 (50% Off)",
+																																																																																						"price": "OUT OF STOCK",
 																																																																																						"description": "",
 																																																																																						"imageLinks": "ELECTRICAL.png",
 																																																																																						"category": "dtee",
@@ -681,7 +681,7 @@
 																																																																																						},
 																																																																																						{
 																																																																																							"name": "IIT Patna Chemical Branch T-Shirt",
-																																																																																							"price": "Rs 349 (50% Off)",
+																																																																																							"price": "OUT OF STOCK",
 																																																																																							"description": "",
 																																																																																							"imageLinks": "CHEMICAL.png",
 																																																																																							"category": "dtee",
@@ -689,7 +689,7 @@
 																																																																																							},
 																																																																																							{
 																																																																																								"name": "IIT Patna Physics Branch T-Shirt",
-																																																																																								"price": "Rs 349 (50% Off)",
+																																																																																								"price": "OUT OF STOCK",
 																																																																																								"description": "",
 																																																																																								"imageLinks": "PHYSICS.png",
 																																																																																								"category": "dtee",
@@ -697,7 +697,7 @@
 																																																																																								},
 																																																																																								{
 																																																																																									"name": "IIT Patna Physics Branch T-Shirt",
-																																																																																									"price": "Rs 349 (50% Off)",
+																																																																																									"price": "OUT OF STOCK",
 																																																																																									"description": "",
 																																																																																									"imageLinks": "CIVIL.png",
 																																																																																									"category": "dtee",
@@ -705,7 +705,7 @@
 																																																																																									},
 																																																																																									{
 																																																																																										"name": "IIT KGP POLO T-Shirt",
-																																																																																										"price": "Rs 549 (50% Off)",
+																																																																																										"price": "OUT OF STOCK",
 																																																																																										"description": "",
 																																																																																										"imageLinks": "IIT KGP POLO.png",
 																																																																																										"category": "iitkgp",
