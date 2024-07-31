@@ -1,780 +1,588 @@
 [
-	  {
-		"name": "IIT Patna Black T-Shirt Design 1",
+	{
+		"name": "IIT BHU Black T-Shirt Design 1",
 		"price": "Rs 349(50% Off)",
 		"description": "",
-		"imageLinks": "low low 7.png",
-		"category": "iitp",
-		"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+		"imageLinks": "IIT BHU BLACK DESIGN 1.png",
+		"category": "iitbhu",
+		"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
 		},
 		{
-			"name": "IIT Patna Black T-Shirt Design 2",
+			"name": "IIT BHU Black T-Shirt Design 2",
 			"price": "Rs 349(50% Off)",
 			"description": "",
-			"imageLinks": "IIT PATNA BLACK DESIGN 2.png",
-			"category": "iitp",
-			"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+			"imageLinks": "IIT BHU BLACK DESIGN 2.png",
+			"category": "iitbhu",
+			"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
 			},
 			{
-				"name": "IIT Patna Black T-Shirt Design 3",
+				"name": "IIT BHU White T-Shirt Design 1",
 				"price": "Rs 349(50% Off)",
 				"description": "",
-				"imageLinks": "IIT PATNA BLACK DESIGN 3.png",
-				"category": "iitp",
-				"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+				"imageLinks": "IIT BHU WHITE DESIGN 1.png",
+				"category": "iitbhu",
+				"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
 				},
 				{
-					"name": "IIT Patna Black T-Shirt Design 4",
-					"price": "Rs 349(50% Off)",
+					"name": "IIT BHU Polo T-Shirt Design 1",
+					"price": "Rs 549(50% Off)",
 					"description": "",
-					"imageLinks": "IIT PATNA BLACK DESIGN 4.png",
-					"category": "iitp",
-					"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+					"imageLinks": "IIT BHU POLO T-SHIRT DESIGN 1.png",
+					"category": "iitbhu",
+					"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
 					},
 					{
-						"name": "IIT Patna Black T-Shirt Design 5",
+						"name": "NIT Patna Black T-Shirt Design 1",
 						"price": "Rs 349(50% Off)",
 						"description": "",
-						"imageLinks": "IIT PATNA BLACK DESIGN 5.png",
-						"category": "iitp",
-						"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+						"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 1.png",
+						"category": "nitp",
+						"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
 						},
 						{
-							"name": "IIT Patna Black T-Shirt Design 6",
+							"name": "NIT Patna Black T-Shirt Design 2",
 							"price": "Rs 349(50% Off)",
 							"description": "",
-							"imageLinks": "IIT PATNA BLACK DESIGN 6.png",
-							"category": "iitp",
-							"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+							"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 2.png",
+							"category": "nitp",
+							"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
 							},
 							{
-								"name": "IIT Patna Black T-Shirt Design 7",
+								"name": "NIT Patna White T-Shirt Design 1",
 								"price": "Rs 349(50% Off)",
 								"description": "",
-								"imageLinks": "IIT PATNA BLACK DESIGN 7.png",
-								"category": "iitp",
-								"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+								"imageLinks": "NIT PATNA WHITE T-SHIRT DESIGN 1.png",
+								"category": "nitp",
+								"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
 								},
 								{
-									"name": "IIT Patna Black T-Shirt Design 8",
-									"price": "Rs 349(50% Off)",
+									"name": "NIT Patna Polo T-Shirt Design 1",
+									"price": "Rs 549(50% Off)",
 									"description": "",
-									"imageLinks": "IIT PATNA BLACK DESIGN 8.png",
-									"category": "iitp",
-									"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+									"imageLinks": "NIT PATNA POLO T-SHIRT DESIGN 1.png",
+									"category": "nitp",
+									"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
 									},
 									{
-										"name": "IIT Patna White T-Shirt Design 1",
-										"price": "Rs 349(50% Off)",
+										"name": "White Plain T-Shirt",
+										"price": "Rs 249 (50% Off)",
 										"description": "",
-										"imageLinks": "IIT PATNA WHITE DESIGN 1.png",
-										"category": "iitp",
-										"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+										"imageLinks": "white.jpg",
+										"category": "plain",
+										"link": "https://forms.gle/FzubhWGUgGmJpBym9"
 										},
 										{
-											"name": "IIT Patna White T-Shirt Design 2",
-											"price": "Rs 349(50% Off)",
+											"name": "Black Plain T-Shirt",
+											"price": "Rs 249 (50% Off)",
 											"description": "",
-											"imageLinks": "IIT PATNA WHITE DESIGN 2.png",
-											"category": "iitp",
-											"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+											"imageLinks": "black.jpg",
+											"category": "plain",
+											"link": "https://forms.gle/FzubhWGUgGmJpBym9"
 											},
 											{
-												"name": "IIT Patna White T-Shirt Design 3",
-												"price": "Rs 349(50% Off)",
+												"name": "Yellow Plain T-Shirt",
+												"price": "Rs 249 (50% Off)",
 												"description": "",
-												"imageLinks": "IIT PATNA WHITE DESIGN 3.png",
-												"category": "iitp",
-												"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+												"imageLinks": "yellow.png",
+												"category": "plain",
+												"link": "https://forms.gle/FzubhWGUgGmJpBym9"
 												},
 												{
-													"name": "IIT Patna White T-Shirt Design 4",
-													"price": "Rs 349(50% Off)",
+													"name": "Red Plain T-Shirt",
+													"price": "Rs 249 (50% Off)",
 													"description": "",
-													"imageLinks": "IIT PATNA WHITE DESIGN 4.png",
-													"category": "iitp",
-													"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+													"imageLinks": "red.jpg",
+													"category": "plain",
+													"link": "https://forms.gle/FzubhWGUgGmJpBym9"
 													},
 													{
-														"name": "IIT Patna White T-Shirt Design 5",
-														"price": "Rs 349(50% Off)",
+														"name": "Navy Blue Plain T-Shirt",
+														"price": "Rs 249 (50% Off)",
 														"description": "",
-														"imageLinks": "IIT PATNA WHITE DESIGN 5.png",
-														"category": "iitp",
-														"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+														"imageLinks": "navy blue.jpg",
+														"category": "plain",
+														"link": "https://forms.gle/FzubhWGUgGmJpBym9"
 														},
 														{
-															"name": "IIT Patna White T-Shirt Design 6",
+															"name": "IIT Jodhpur Black T-Shirt Design 1",
 															"price": "Rs 349(50% Off)",
 															"description": "",
-															"imageLinks": "IIT PATNA WHITE DESIGN 6.png",
-															"category": "iitp",
-															"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+															"imageLinks": "IIT JODHUR BLACK DESIGN 1.png",
+															"category": "iitj",
+															"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
 															},
 															{
-																"name": "IIT Patna White T-Shirt Design 7",
+																"name": "IIT Jodhpur Black T-Shirt Design 2",
 																"price": "Rs 349(50% Off)",
 																"description": "",
-																"imageLinks": "IIT PATNA WHITE DESIGN 7.png",
-																"category": "iitp",
-																"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																"imageLinks": "IIT JODHUR BLACK DESIGN 2.png",
+																"category": "iitj",
+																"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
 																},
 																{
-																	"name": "IIT Patna White T-Shirt Design 8",
+																	"name": "IIT Jodhpur White T-Shirt",
 																	"price": "Rs 349(50% Off)",
 																	"description": "",
-																	"imageLinks": "IIT PATNA WHITE DESIGN 8.png",
-																	"category": "iitp",
-																	"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																	"imageLinks": "IIT JODHPUR WHITE.png",
+																	"category": "iitj",
+																	"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
 																	},
 																	{
-																		"name": "IIT Patna Polo T-Shirt Design 1",
+																		"name": "IIT Jodhpur Polo T-Shirt",
 																		"price": "Rs 549(50% Off)",
 																		"description": "",
-																		"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 1.png",
-																		"category": "iitp",
-																		"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																		"imageLinks": "IIT JODHPUR POLO.png",
+																		"category": "iitj",
+																		"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
 																		},
 																		{
-																			"name": "IIT Patna Polo T-Shirt Design 2",
-																			"price": "Rs 549(50% Off)",
+																			"name": "IIT KGP Black T-Shirt",
+																			"price": "Rs 349(50% Off)",
 																			"description": "",
-																			"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 2.png",
-																			"category": "iitp",
-																			"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																			"imageLinks": "IIT KGP BLACK.png",
+																			"category": "iitkgp",
+																			"link": "https://forms.gle/fEtafK6wvNUg9Cyy6"
 																			},
 																			{
-																				"name": "IIT Patna Polo T-Shirt Design 3",
-																				"price": "Rs 549(50% Off)",
+																				"name": "IIT KGP White T-Shirt",
+																				"price": "Rs 349(50% Off)",
 																				"description": "",
-																				"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 3.png",
-																				"category": "iitp",
-																				"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																				"imageLinks": "IIT KGP WHITE.png",
+																				"category": "iitkgp",
+																				"link": "https://forms.gle/fEtafK6wvNUg9Cyy6"
 																				},
 																				{
-																					"name": "IIT Patna Polo T-Shirt Design 4",
-																					"price": "Rs 549(50% Off)",
+																					"name": "IIT BOMBAY BLACK T-Shirt",
+																					"price": "Rs 349(50% Off)",
 																					"description": "",
-																					"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 4.png",
-																					"category": "iitp",
-																					"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																					"imageLinks": "IIT BOMBAY BLACK.png",
+																					"category": "iitb",
+																					"link": "https://forms.gle/RcpcExMjdKvvf3mo6"
 																					},
 																					{
-																						"name": "IIT Patna Polo T-Shirt Design 5",
-																						"price": "Rs 549(50% Off)",
+																						"name": "IIT BOMBAY White T-Shirt",
+																						"price": "Rs 349(50% Off)",
 																						"description": "",
-																						"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 5.png",
-																						"category": "iitp",
-																						"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																						"imageLinks": "IIT BOMBAY WHITE.png",
+																						"category": "iitb",
+																						"link": "https://forms.gle/RcpcExMjdKvvf3mo6"
 																						},
 																						{
-																							"name": "IIT Patna Polo T-Shirt Design 6",
-																							"price": "Rs 549(50% Off)",
+																							"name": "IIT MADRAS BLACK T-Shirt",
+																							"price": "Rs 349(50% Off)",
 																							"description": "",
-																							"imageLinks": "IIT PATNA POLO T-SHIRT DESIGN 6.png",
-																							"category": "iitp",
-																							"link": "https://forms.gle/fvjBqhT2kys1T58m6"
+																							"imageLinks": "IIT MADRAS BLACK.png",
+																							"category": "iitm",
+																							"link": "https://forms.gle/gFHYN44D5vd3qUSE8"
 																							},
 																							{
-																								"name": "IIT Patna Black T-Shirt",
+																								"name": "IIT MADRAS White T-Shirt",
 																								"price": "Rs 349(50% Off)",
-																								"description": "PI Collection",
-																								"imageLinks": "IIT PATNA DESIGN 2 LOW.png",
-																								"category": "new",
-																								"link": "https://forms.gle/oFApw4FfkP85YcSQ9"
+																								"description": "",
+																								"imageLinks": "IIT MADRAS WHITE.png",
+																								"category": "iitm",
+																								"link": "https://forms.gle/gFHYN44D5vd3qUSE8"
 																								},
 																								{
-																									"name": "IIT Patna Black T-Shirt",
+																									"name": "IIT KANPUR BLACK T-Shirt",
 																									"price": "Rs 349(50% Off)",
-																									"description": "PI Collection",
-																									"imageLinks": "IIT PATNA DESIGN 3 LOW.png",
-																									"category": "new",
-																									"link": "https://forms.gle/oFApw4FfkP85YcSQ9"
+																									"description": "",
+																									"imageLinks": "IIT KANPUR BLACK.png",
+																									"category": "iitk",
+																									"link": "https://forms.gle/HuQawPbYaF1AhXpy6"
 																									},
 																									{
-																										"name": "IIT BHU Black T-Shirt Design 1",
+																										"name": "IIT KANPUR White T-Shirt",
 																										"price": "Rs 349(50% Off)",
 																										"description": "",
-																										"imageLinks": "IIT BHU BLACK DESIGN 1.png",
-																										"category": "iitbhu",
-																										"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
+																										"imageLinks": "IIT KANPUR WHITE.png",
+																										"category": "iitk",
+																										"link": "https://forms.gle/HuQawPbYaF1AhXpy6"
 																										},
 																										{
-																											"name": "IIT BHU Black T-Shirt Design 2",
-																											"price": "Rs 349(50% Off)",
+																											"name": "IIT DELHI BLACK T-Shirt",
+																											"price": "Rs 399(50% Off)",
 																											"description": "",
-																											"imageLinks": "IIT BHU BLACK DESIGN 2.png",
-																											"category": "iitbhu",
-																											"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
+																											"imageLinks": "IIT DELHI BLACK.png",
+																											"category": "iitd",
+																											"link": "https://forms.gle/5Q1F9cAauehXPk3a9"
 																											},
 																											{
-																												"name": "IIT BHU White T-Shirt Design 1",
-																												"price": "Rs 349(50% Off)",
+																												"name": "IIT DELHI White T-Shirt",
+																												"price": "Rs 39(50% Off)",
 																												"description": "",
-																												"imageLinks": "IIT BHU WHITE DESIGN 1.png",
-																												"category": "iitbhu",
-																												"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
+																												"imageLinks": "IIT DELHI WHITE.png",
+																												"category": "iitd",
+																												"link": "https://forms.gle/5Q1F9cAauehXPk3a9"
 																												},
 																												{
-																													"name": "IIT BHU Polo T-Shirt Design 1",
-																													"price": "Rs 549(50% Off)",
+																													"name": "IIT GUWAHATI BLACK T-Shirt",
+																													"price": "Rs 349(50% Off)",
 																													"description": "",
-																													"imageLinks": "IIT BHU POLO T-SHIRT DESIGN 1.png",
-																													"category": "iitbhu",
-																													"link": "https://forms.gle/P2CeML8DZVAqqA9cA"
+																													"imageLinks": "IIT GUWAHATI BLACK.png",
+																													"category": "iitg",
+																													"link": "https://forms.gle/G22krn8uds9BmN7i6"
 																													},
 																													{
-																														"name": "NIT Patna Black T-Shirt Design 1",
+																														"name": "IIT GUWAHATI White T-Shirt",
 																														"price": "Rs 349(50% Off)",
 																														"description": "",
-																														"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 1.png",
-																														"category": "nitp",
-																														"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
+																														"imageLinks": "IIT GUWAHATI WHITE.png",
+																														"category": "iitg",
+																														"link": "https://forms.gle/G22krn8uds9BmN7i6"
 																														},
 																														{
-																															"name": "NIT Patna Black T-Shirt Design 2",
+																															"name": "IIT ROORKEE BLACK T-Shirt",
 																															"price": "Rs 349(50% Off)",
 																															"description": "",
-																															"imageLinks": "NIT PATNA BLACK T-SHIRT DESIGN 2.png",
-																															"category": "nitp",
-																															"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
+																															"imageLinks": "IIT ROORKEE BLACK.png",
+																															"category": "iitr",
+																															"link": "https://forms.gle/uA9QeDgSQVjvXhii6"
 																															},
 																															{
-																																"name": "NIT Patna White T-Shirt Design 1",
+																																"name": "IIT ROORKEE White T-Shirt",
 																																"price": "Rs 349(50% Off)",
 																																"description": "",
-																																"imageLinks": "NIT PATNA WHITE T-SHIRT DESIGN 1.png",
-																																"category": "nitp",
-																																"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
+																																"imageLinks": "IIT ROORKEE WHITE.png",
+																																"category": "iitr",
+																																"link": "https://forms.gle/uA9QeDgSQVjvXhii6"
 																																},
 																																{
-																																	"name": "NIT Patna Polo T-Shirt Design 1",
-																																	"price": "Rs 549(50% Off)",
+																																	"name": "IIT MANDI BLACK T-Shirt",
+																																	"price": "Rs 349(50% Off)",
 																																	"description": "",
-																																	"imageLinks": "NIT PATNA POLO T-SHIRT DESIGN 1.png",
-																																	"category": "nitp",
-																																	"link": "https://forms.gle/wqDr6PhypkfuVJBa9"
+																																	"imageLinks": "IIT MANDI BLACK.png",
+																																	"category": "iitmd",
+																																	"link": "https://forms.gle/fBZ6UmnvqXY25g537"
 																																	},
 																																	{
-																																		"name": "White Plain T-Shirt",
-																																		"price": "Rs 249 (50% Off)",
+																																		"name": "IIT MANDI White T-Shirt",
+																																		"price": "Rs 349(50% Off)",
 																																		"description": "",
-																																		"imageLinks": "white.jpg",
-																																		"category": "plain",
-																																		"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																		"imageLinks": "IIT MANDI WHITE.png",
+																																		"category": "iitmd",
+																																		"link": "https://forms.gle/fBZ6UmnvqXY25g537"
 																																		},
 																																		{
-																																			"name": "Black Plain T-Shirt",
-																																			"price": "Rs 249 (50% Off)",
+																																			"name": "IIT ROPAR BLACK T-Shirt",
+																																			"price": "Rs 349(50% Off)",
 																																			"description": "",
-																																			"imageLinks": "black.jpg",
-																																			"category": "plain",
-																																			"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																			"imageLinks": "IIT ROPAR BLACK.png",
+																																			"category": "iitrpr",
+																																			"link": "https://forms.gle/CHKggNQYqZ436NmK8"
 																																			},
 																																			{
-																																				"name": "Yellow Plain T-Shirt",
-																																				"price": "Rs 249 (50% Off)",
+																																				"name": "IIT ROPAR White T-Shirt",
+																																				"price": "Rs 349(50% Off)",
 																																				"description": "",
-																																				"imageLinks": "yellow.png",
-																																				"category": "plain",
-																																				"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																				"imageLinks": "IIT ROPAR WHITE.png",
+																																				"category": "iitrpr",
+																																				"link": "https://forms.gle/CHKggNQYqZ436NmK8"
 																																				},
 																																				{
-																																					"name": "Red Plain T-Shirt",
-																																					"price": "Rs 249 (50% Off)",
+																																					"name": "IIT BHUBANESWAR BLACK T-Shirt",
+																																					"price": "Rs 349(50% Off)",
 																																					"description": "",
-																																					"imageLinks": "red.jpg",
-																																					"category": "plain",
-																																					"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																					"imageLinks": "IIT BHUBANESWAR BLACK.png",
+																																					"category": "iitbbs",
+																																					"link": "https://forms.gle/fPhoNQt66RPdTGLb6"
 																																					},
 																																					{
-																																						"name": "Navy Blue Plain T-Shirt",
-																																						"price": "Rs 249 (50% Off)",
+																																						"name": "IIT BHUBANESWAR White T-Shirt",
+																																						"price": "Rs 349(50% Off)",
 																																						"description": "",
-																																						"imageLinks": "navy blue.jpg",
-																																						"category": "plain",
-																																						"link": "https://forms.gle/FzubhWGUgGmJpBym9"
+																																						"imageLinks": "IIT BHUBANESWAR WHITE.png",
+																																						"category": "iitbbs",
+																																						"link": "https://forms.gle/fPhoNQt66RPdTGLb6"
 																																						},
 																																						{
-																																							"name": "IIT Jodhpur Black T-Shirt Design 1",
+																																							"name": "IIT GANDHINAGAR BLACK T-Shirt",
 																																							"price": "Rs 349(50% Off)",
 																																							"description": "",
-																																							"imageLinks": "IIT JODHUR BLACK DESIGN 1.png",
-																																							"category": "iitj",
-																																							"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
+																																							"imageLinks": "IIT GANDHINAGAR BLACK.png",
+																																							"category": "iitgn",
+																																							"link": "https://forms.gle/KRp7fVG3it1yTPMz6"
 																																							},
 																																							{
-																																								"name": "IIT Jodhpur Black T-Shirt Design 2",
+																																								"name": "IIT GANDHINAGAR White T-Shirt",
 																																								"price": "Rs 349(50% Off)",
 																																								"description": "",
-																																								"imageLinks": "IIT JODHUR BLACK DESIGN 2.png",
-																																								"category": "iitj",
-																																								"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
+																																								"imageLinks": "IIT GANDHINAGAR WHITE.png",
+																																								"category": "iitgn",
+																																								"link": "https://forms.gle/KRp7fVG3it1yTPMz6"
 																																								},
 																																								{
-																																									"name": "IIT Jodhpur White T-Shirt",
+																																									"name": "IIT HYDERABAD BLACK T-Shirt",
 																																									"price": "Rs 349(50% Off)",
 																																									"description": "",
-																																									"imageLinks": "IIT JODHPUR WHITE.png",
-																																									"category": "iitj",
-																																									"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
+																																									"imageLinks": "IIT HYDERABAD BLACK.png",
+																																									"category": "iith",
+																																									"link": "https://forms.gle/AEVtJYKsyiqDCkvt5"
 																																									},
 																																									{
-																																										"name": "IIT Jodhpur Polo T-Shirt",
-																																										"price": "Rs 549(50% Off)",
+																																										"name": "IIT HYDERABAD White T-Shirt",
+																																										"price": "Rs 349(50% Off)",
 																																										"description": "",
-																																										"imageLinks": "IIT JODHPUR POLO.png",
-																																										"category": "iitj",
-																																										"link": "https://forms.gle/aLwVXvgzbqv4DDLBA"
+																																										"imageLinks": "IIT HYDERABAD WHITE.png",
+																																										"category": "iith",
+																																										"link": "https://forms.gle/AEVtJYKsyiqDCkvt5"
 																																										},
 																																										{
-																																											"name": "IIT KGP Black T-Shirt",
+																																											"name": "IIT PALAKKAD BLACK T-Shirt",
 																																											"price": "Rs 349(50% Off)",
 																																											"description": "",
-																																											"imageLinks": "IIT KGP BLACK.png",
-																																											"category": "iitkgp",
-																																											"link": "https://forms.gle/fEtafK6wvNUg9Cyy6"
+																																											"imageLinks": "IIT PALAKKAD BLACK.png",
+																																											"category": "iitpkd",
+																																											"link": "https://forms.gle/WAhA8zzRhEY3RDnGA"
 																																											},
 																																											{
-																																												"name": "IIT KGP White T-Shirt",
+																																												"name": "IIT PALAKKAD White T-Shirt",
 																																												"price": "Rs 349(50% Off)",
 																																												"description": "",
-																																												"imageLinks": "IIT KGP WHITE.png",
-																																												"category": "iitkgp",
-																																												"link": "https://forms.gle/fEtafK6wvNUg9Cyy6"
+																																												"imageLinks": "IIT PALAKKAD WHITE.png",
+																																												"category": "iitpkd",
+																																												"link": "https://forms.gle/WAhA8zzRhEY3RDnGA"
 																																												},
 																																												{
-																																													"name": "IIT BOMBAY BLACK T-Shirt",
+																																													"name": "IIT TIRUPATI BLACK T-Shirt",
 																																													"price": "Rs 349(50% Off)",
 																																													"description": "",
-																																													"imageLinks": "IIT BOMBAY BLACK.png",
-																																													"category": "iitb",
-																																													"link": "https://forms.gle/RcpcExMjdKvvf3mo6"
+																																													"imageLinks": "IIT TIRUPATI BLACK.png",
+																																													"category": "iitt",
+																																													"link": "https://forms.gle/o887rnxyydmbbxtn9"
 																																													},
 																																													{
-																																														"name": "IIT BOMBAY White T-Shirt",
+																																														"name": "IIT TIRUPATI White T-Shirt",
 																																														"price": "Rs 349(50% Off)",
 																																														"description": "",
-																																														"imageLinks": "IIT BOMBAY WHITE.png",
-																																														"category": "iitb",
-																																														"link": "https://forms.gle/RcpcExMjdKvvf3mo6"
+																																														"imageLinks": "IIT TIRUPATI WHITE.png",
+																																														"category": "iitt",
+																																														"link": "https://forms.gle/o887rnxyydmbbxtn9"
 																																														},
 																																														{
-																																															"name": "IIT MADRAS BLACK T-Shirt",
+																																															"name": "IIT DHANBAD BLACK T-Shirt",
 																																															"price": "Rs 349(50% Off)",
 																																															"description": "",
-																																															"imageLinks": "IIT MADRAS BLACK.png",
-																																															"category": "iitm",
-																																															"link": "https://forms.gle/gFHYN44D5vd3qUSE8"
+																																															"imageLinks": "IIT DHANBAD BLACK.png",
+																																															"category": "iitdhn",
+																																															"link": "https://forms.gle/hg98KEzJxWQndEoN6"
 																																															},
 																																															{
-																																																"name": "IIT MADRAS White T-Shirt",
+																																																"name": "IIT DHANBAD White T-Shirt",
 																																																"price": "Rs 349(50% Off)",
 																																																"description": "",
-																																																"imageLinks": "IIT MADRAS WHITE.png",
-																																																"category": "iitm",
-																																																"link": "https://forms.gle/gFHYN44D5vd3qUSE8"
+																																																"imageLinks": "IIT DHANBAD WHITE.png",
+																																																"category": "iitdhn",
+																																																"link": "https://forms.gle/hg98KEzJxWQndEoN6"
 																																																},
 																																																{
-																																																	"name": "IIT KANPUR BLACK T-Shirt",
+																																																	"name": "IIT BHILAI BLACK T-Shirt",
 																																																	"price": "Rs 349(50% Off)",
 																																																	"description": "",
-																																																	"imageLinks": "IIT KANPUR BLACK.png",
-																																																	"category": "iitk",
-																																																	"link": "https://forms.gle/HuQawPbYaF1AhXpy6"
+																																																	"imageLinks": "IIT BHILAI BLACK.png",
+																																																	"category": "iitbh",
+																																																	"link": "https://forms.gle/yPzx6V2Nv7G2XnQj9"
 																																																	},
 																																																	{
-																																																		"name": "IIT KANPUR White T-Shirt",
+																																																		"name": "IIT BHILAI White T-Shirt",
 																																																		"price": "Rs 349(50% Off)",
 																																																		"description": "",
-																																																		"imageLinks": "IIT KANPUR WHITE.png",
-																																																		"category": "iitk",
-																																																		"link": "https://forms.gle/HuQawPbYaF1AhXpy6"
+																																																		"imageLinks": "IIT BHILAI WHITE.png",
+																																																		"category": "iitbh",
+																																																		"link": "https://forms.gle/yPzx6V2Nv7G2XnQj9"
 																																																		},
 																																																		{
-																																																			"name": "IIT DELHI BLACK T-Shirt",
-																																																			"price": "Rs 399(50% Off)",
+																																																			"name": "IIT DHARWAD BLACK T-Shirt",
+																																																			"price": "Rs 349(50% Off)",
 																																																			"description": "",
-																																																			"imageLinks": "IIT DELHI BLACK.png",
-																																																			"category": "iitd",
-																																																			"link": "https://forms.gle/5Q1F9cAauehXPk3a9"
+																																																			"imageLinks": "IIT DHARWAD BLACK.png",
+																																																			"category": "iitdh",
+																																																			"link": "https://forms.gle/imKZ7TCBwNitXo1L7"
 																																																			},
 																																																			{
-																																																				"name": "IIT DELHI White T-Shirt",
-																																																				"price": "Rs 399(50% Off)",
+																																																				"name": "IIT DHARWAD White T-Shirt",
+																																																				"price": "Rs 349(50% Off)",
 																																																				"description": "",
-																																																				"imageLinks": "IIT DELHI WHITE.png",
-																																																				"category": "iitd",
-																																																				"link": "https://forms.gle/5Q1F9cAauehXPk3a9"
+																																																				"imageLinks": "IIT DHARWAD WHITE.png",
+																																																				"category": "iitdh",
+																																																				"link": "https://forms.gle/imKZ7TCBwNitXo1L7"
 																																																				},
 																																																				{
-																																																					"name": "IIT GUWAHATI BLACK T-Shirt",
+																																																					"name": "IIT JAMMU BLACK T-Shirt",
 																																																					"price": "Rs 349(50% Off)",
 																																																					"description": "",
-																																																					"imageLinks": "IIT GUWAHATI BLACK.png",
-																																																					"category": "iitg",
-																																																					"link": "https://forms.gle/G22krn8uds9BmN7i6"
+																																																					"imageLinks": "IIT JAMMU BLACK.png",
+																																																					"category": "iitjmu",
+																																																					"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
 																																																					},
 																																																					{
-																																																						"name": "IIT GUWAHATI White T-Shirt",
+																																																						"name": "IIT JAMMU White T-Shirt",
 																																																						"price": "Rs 349(50% Off)",
 																																																						"description": "",
-																																																						"imageLinks": "IIT GUWAHATI WHITE.png",
-																																																						"category": "iitg",
-																																																						"link": "https://forms.gle/G22krn8uds9BmN7i6"
+																																																						"imageLinks": "IIT JAMMU WHITE.png",
+																																																						"category": "iitjmu",
+																																																						"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
 																																																						},
 																																																						{
-																																																							"name": "IIT ROORKEE BLACK T-Shirt",
+																																																							"name": "IIT JAMMU POLO T-Shirt",
 																																																							"price": "Rs 349(50% Off)",
 																																																							"description": "",
-																																																							"imageLinks": "IIT ROORKEE BLACK.png",
-																																																							"category": "iitr",
-																																																							"link": "https://forms.gle/uA9QeDgSQVjvXhii6"
+																																																							"imageLinks": "IIT JAMMU POLO copy.png",
+																																																							"category": "iitjmu",
+																																																							"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
 																																																							},
 																																																							{
-																																																								"name": "IIT ROORKEE White T-Shirt",
+																																																								"name": "IIT GOA BLACK T-Shirt",
 																																																								"price": "Rs 349(50% Off)",
 																																																								"description": "",
-																																																								"imageLinks": "IIT ROORKEE WHITE.png",
-																																																								"category": "iitr",
-																																																								"link": "https://forms.gle/uA9QeDgSQVjvXhii6"
+																																																								"imageLinks": "IIT GOA BLACK.png",
+																																																								"category": "iitgoa",
+																																																								"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
 																																																								},
 																																																								{
-																																																									"name": "IIT MANDI BLACK T-Shirt",
+																																																									"name": "IIT GOA White T-Shirt",
 																																																									"price": "Rs 349(50% Off)",
 																																																									"description": "",
-																																																									"imageLinks": "IIT MANDI BLACK.png",
-																																																									"category": "iitmd",
-																																																									"link": "https://forms.gle/fBZ6UmnvqXY25g537"
+																																																									"imageLinks": "IIT GOA WHITE.png",
+																																																									"category": "iitgoa",
+																																																									"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
 																																																									},
 																																																									{
-																																																										"name": "IIT MANDI White T-Shirt",
+																																																										"name": "NIT JAIPUR BLACK T-Shirt",
 																																																										"price": "Rs 349(50% Off)",
 																																																										"description": "",
-																																																										"imageLinks": "IIT MANDI WHITE.png",
-																																																										"category": "iitmd",
-																																																										"link": "https://forms.gle/fBZ6UmnvqXY25g537"
+																																																										"imageLinks": "NIT JAIPUR BLACK.png",
+																																																										"category": "mnit",
+																																																										"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
 																																																										},
 																																																										{
-																																																											"name": "IIT ROPAR BLACK T-Shirt",
+																																																											"name": "NIT JAIPUR White T-Shirt",
 																																																											"price": "Rs 349(50% Off)",
 																																																											"description": "",
-																																																											"imageLinks": "IIT ROPAR BLACK.png",
-																																																											"category": "iitrpr",
-																																																											"link": "https://forms.gle/CHKggNQYqZ436NmK8"
+																																																											"imageLinks": "NIT JAIPUR WHITE.png",
+																																																											"category": "mnit",
+																																																											"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
 																																																											},
 																																																											{
-																																																												"name": "IIT ROPAR White T-Shirt",
+																																																												"name": "NIT JAIPUR POLO T-Shirt",
 																																																												"price": "Rs 349(50% Off)",
 																																																												"description": "",
-																																																												"imageLinks": "IIT ROPAR WHITE.png",
-																																																												"category": "iitrpr",
-																																																												"link": "https://forms.gle/CHKggNQYqZ436NmK8"
+																																																												"imageLinks": "NIT JAIPUR POLO.png",
+																																																												"category": "mnit",
+																																																												"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
 																																																												},
 																																																												{
-																																																													"name": "IIT BHUBANESWAR BLACK T-Shirt",
+																																																													"name": "IIT Patna Computer Science Branch T-Shirt",
 																																																													"price": "Rs 349(50% Off)",
 																																																													"description": "",
-																																																													"imageLinks": "IIT BHUBANESWAR BLACK.png",
-																																																													"category": "iitbbs",
-																																																													"link": "https://forms.gle/fPhoNQt66RPdTGLb6"
+																																																													"imageLinks": "CSE.png",
+																																																													"category": "dtee",
+																																																													"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
 																																																													},
 																																																													{
-																																																														"name": "IIT BHUBANESWAR White T-Shirt",
+																																																														"name": "IIT Patna Electrical Branch T-Shirt",
 																																																														"price": "Rs 349(50% Off)",
 																																																														"description": "",
-																																																														"imageLinks": "IIT BHUBANESWAR WHITE.png",
-																																																														"category": "iitbbs",
-																																																														"link": "https://forms.gle/fPhoNQt66RPdTGLb6"
+																																																														"imageLinks": "ELECTRICAL.png",
+																																																														"category": "dtee",
+																																																														"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
 																																																														},
 																																																														{
-																																																															"name": "IIT GANDHINAGAR BLACK T-Shirt",
+																																																															"name": "IIT Patna Chemical Branch T-Shirt",
 																																																															"price": "Rs 349(50% Off)",
 																																																															"description": "",
-																																																															"imageLinks": "IIT GANDHINAGAR BLACK.png",
-																																																															"category": "iitgn",
-																																																															"link": "https://forms.gle/KRp7fVG3it1yTPMz6"
+																																																															"imageLinks": "CHEMICAL.png",
+																																																															"category": "dtee",
+																																																															"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
 																																																															},
 																																																															{
-																																																																"name": "IIT GANDHINAGAR White T-Shirt",
+																																																																"name": "IIT Patna Physics Branch T-Shirt",
 																																																																"price": "Rs 349(50% Off)",
 																																																																"description": "",
-																																																																"imageLinks": "IIT GANDHINAGAR WHITE.png",
-																																																																"category": "iitgn",
-																																																																"link": "https://forms.gle/KRp7fVG3it1yTPMz6"
+																																																																"imageLinks": "PHYSICS.png",
+																																																																"category": "dtee",
+																																																																"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
 																																																																},
 																																																																{
-																																																																	"name": "IIT HYDERABAD BLACK T-Shirt",
+																																																																	"name": "IIT Patna Physics Branch T-Shirt",
 																																																																	"price": "Rs 349(50% Off)",
 																																																																	"description": "",
-																																																																	"imageLinks": "IIT HYDERABAD BLACK.png",
-																																																																	"category": "iith",
-																																																																	"link": "https://forms.gle/AEVtJYKsyiqDCkvt5"
+																																																																	"imageLinks": "CIVIL.png",
+																																																																	"category": "dtee",
+																																																																	"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
 																																																																	},
 																																																																	{
-																																																																		"name": "IIT HYDERABAD White T-Shirt",
+																																																																		"name": "9 TO 5 Humse Na Hoga",
 																																																																		"price": "Rs 349(50% Off)",
-																																																																		"description": "",
-																																																																		"imageLinks": "IIT HYDERABAD WHITE.png",
-																																																																		"category": "iith",
-																																																																		"link": "https://forms.gle/AEVtJYKsyiqDCkvt5"
+																																																																		"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																		"imageLinks": "9 to 5 humse na hoga.png",
+																																																																		"category": "en",
+																																																																		"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																		},
 																																																																		{
-																																																																			"name": "IIT PALAKKAD BLACK T-Shirt",
+																																																																			"name": "Born To Be CEO",
 																																																																			"price": "Rs 349(50% Off)",
-																																																																			"description": "",
-																																																																			"imageLinks": "IIT PALAKKAD BLACK.png",
-																																																																			"category": "iitpkd",
-																																																																			"link": "https://forms.gle/WAhA8zzRhEY3RDnGA"
+																																																																			"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																			"imageLinks": "born to be ceo.png",
+																																																																			"category": "en",
+																																																																			"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																			},
 																																																																			{
-																																																																				"name": "IIT PALAKKAD White T-Shirt",
+																																																																				"name": "Entreprenher",
 																																																																				"price": "Rs 349(50% Off)",
-																																																																				"description": "",
-																																																																				"imageLinks": "IIT PALAKKAD WHITE.png",
-																																																																				"category": "iitpkd",
-																																																																				"link": "https://forms.gle/WAhA8zzRhEY3RDnGA"
+																																																																				"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																				"imageLinks": "entreprenher.png",
+																																																																				"category": "en",
+																																																																				"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																				},
 																																																																				{
-																																																																					"name": "IIT TIRUPATI BLACK T-Shirt",
+																																																																					"name": "Entrpreneur Mantality",
 																																																																					"price": "Rs 349(50% Off)",
-																																																																					"description": "",
-																																																																					"imageLinks": "IIT TIRUPATI BLACK.png",
-																																																																					"category": "iitt",
-																																																																					"link": "https://forms.gle/o887rnxyydmbbxtn9"
+																																																																					"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																					"imageLinks": "entrpreneur mantality.png",
+																																																																					"category": "en",
+																																																																					"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																					},
 																																																																					{
-																																																																						"name": "IIT TIRUPATI White T-Shirt",
+																																																																						"name": "Founder",
 																																																																						"price": "Rs 349(50% Off)",
-																																																																						"description": "",
-																																																																						"imageLinks": "IIT TIRUPATI WHITE.png",
-																																																																						"category": "iitt",
-																																																																						"link": "https://forms.gle/o887rnxyydmbbxtn9"
+																																																																						"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																						"imageLinks": "founder.png",
+																																																																						"category": "en",
+																																																																						"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																						},
 																																																																						{
-																																																																							"name": "IIT DHANBAD BLACK T-Shirt",
+																																																																							"name": "Hard Work Pays Off",
 																																																																							"price": "Rs 349(50% Off)",
-																																																																							"description": "",
-																																																																							"imageLinks": "IIT DHANBAD BLACK.png",
-																																																																							"category": "iitdhn",
-																																																																							"link": "https://forms.gle/hg98KEzJxWQndEoN6"
+																																																																							"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																							"imageLinks": "hard work pays off.png",
+																																																																							"category": "en",
+																																																																							"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																							},
 																																																																							{
-																																																																								"name": "IIT DHANBAD White T-Shirt",
+																																																																								"name": "Pyar Nahi Funding Chahiye",
 																																																																								"price": "Rs 349(50% Off)",
-																																																																								"description": "",
-																																																																								"imageLinks": "IIT DHANBAD WHITE.png",
-																																																																								"category": "iitdhn",
-																																																																								"link": "https://forms.gle/hg98KEzJxWQndEoN6"
+																																																																								"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																								"imageLinks": "pyar nahi finding.png",
+																																																																								"category": "en",
+																																																																								"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																								},
 																																																																								{
-																																																																									"name": "IIT BHILAI BLACK T-Shirt",
+																																																																									"name": "Pyar Nahi Startup Karo",
 																																																																									"price": "Rs 349(50% Off)",
-																																																																									"description": "",
-																																																																									"imageLinks": "IIT BHILAI BLACK.png",
-																																																																									"category": "iitbh",
-																																																																									"link": "https://forms.gle/yPzx6V2Nv7G2XnQj9"
+																																																																									"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																									"imageLinks": "pyar nahi startup.png",
+																																																																									"category": "en",
+																																																																									"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
 																																																																									},
 																																																																									{
-																																																																										"name": "IIT BHILAI White T-Shirt",
+																																																																										"name": "Self Made Self Paid",
 																																																																										"price": "Rs 349(50% Off)",
-																																																																										"description": "",
-																																																																										"imageLinks": "IIT BHILAI WHITE.png",
-																																																																										"category": "iitbh",
-																																																																										"link": "https://forms.gle/yPzx6V2Nv7G2XnQj9"
-																																																																										},
-																																																																										{
-																																																																											"name": "IIT DHARWAD BLACK T-Shirt",
-																																																																											"price": "Rs 349(50% Off)",
-																																																																											"description": "",
-																																																																											"imageLinks": "IIT DHARWAD BLACK.png",
-																																																																											"category": "iitdh",
-																																																																											"link": "https://forms.gle/imKZ7TCBwNitXo1L7"
-																																																																											},
-																																																																											{
-																																																																												"name": "IIT DHARWAD White T-Shirt",
-																																																																												"price": "Rs 349(50% Off)",
-																																																																												"description": "",
-																																																																												"imageLinks": "IIT DHARWAD WHITE.png",
-																																																																												"category": "iitdh",
-																																																																												"link": "https://forms.gle/imKZ7TCBwNitXo1L7"
-																																																																												},
-																																																																												{
-																																																																													"name": "IIT JAMMU BLACK T-Shirt",
-																																																																													"price": "Rs 349(50% Off)",
-																																																																													"description": "",
-																																																																													"imageLinks": "IIT JAMMU BLACK.png",
-																																																																													"category": "iitjmu",
-																																																																													"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
-																																																																													},
-																																																																													{
-																																																																														"name": "IIT JAMMU White T-Shirt",
-																																																																														"price": "Rs 349(50% Off)",
-																																																																														"description": "",
-																																																																														"imageLinks": "IIT JAMMU WHITE.png",
-																																																																														"category": "iitjmu",
-																																																																														"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
-																																																																														},
-																																																																														{
-																																																																															"name": "IIT JAMMU POLO T-Shirt",
-																																																																															"price": "Rs 349(50% Off)",
-																																																																															"description": "",
-																																																																															"imageLinks": "IIT JAMMU POLO copy.png",
-																																																																															"category": "iitjmu",
-																																																																															"link": "https://forms.gle/JYqyPHUJxNMbzqPv9"
-																																																																															},
-																																																																															{
-																																																																																"name": "IIT GOA BLACK T-Shirt",
-																																																																																"price": "Rs 349(50% Off)",
-																																																																																"description": "",
-																																																																																"imageLinks": "IIT GOA BLACK.png",
-																																																																																"category": "iitgoa",
-																																																																																"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
-																																																																																},
-																																																																																{
-																																																																																	"name": "IIT GOA White T-Shirt",
-																																																																																	"price": "Rs 349(50% Off)",
-																																																																																	"description": "",
-																																																																																	"imageLinks": "IIT GOA WHITE.png",
-																																																																																	"category": "iitgoa",
-																																																																																	"link": "https://forms.gle/UwSC7SLuqGkKrFkB8"
-																																																																																	},
-																																																																																	{
-																																																																																		"name": "NIT JAIPUR BLACK T-Shirt",
-																																																																																		"price": "Rs 349(50% Off)",
-																																																																																		"description": "",
-																																																																																		"imageLinks": "NIT JAIPUR BLACK.png",
-																																																																																		"category": "mnit",
-																																																																																		"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
-																																																																																		},
-																																																																																		{
-																																																																																			"name": "NIT JAIPUR White T-Shirt",
-																																																																																			"price": "Rs 349(50% Off)",
-																																																																																			"description": "",
-																																																																																			"imageLinks": "NIT JAIPUR WHITE.png",
-																																																																																			"category": "mnit",
-																																																																																			"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
-																																																																																			},
-																																																																																			{
-																																																																																				"name": "NIT JAIPUR POLO T-Shirt",
-																																																																																				"price": "Rs 349(50% Off)",
-																																																																																				"description": "",
-																																																																																				"imageLinks": "NIT JAIPUR POLO.png",
-																																																																																				"category": "mnit",
-																																																																																				"link": "https://forms.gle/bANbtPLWmPkmMyYU8"
-																																																																																				},
-																																																																																				{
-																																																																																					"name": "IIT Patna Computer Science Branch T-Shirt",
-																																																																																					"price": "Rs 349(50% Off)",
-																																																																																					"description": "",
-																																																																																					"imageLinks": "CSE.png",
-																																																																																					"category": "dtee",
-																																																																																					"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
-																																																																																					},
-																																																																																					{
-																																																																																						"name": "IIT Patna Electrical Branch T-Shirt",
-																																																																																						"price": "Rs 349(50% Off)",
-																																																																																						"description": "",
-																																																																																						"imageLinks": "ELECTRICAL.png",
-																																																																																						"category": "dtee",
-																																																																																						"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
-																																																																																						},
-																																																																																						{
-																																																																																							"name": "IIT Patna Chemical Branch T-Shirt",
-																																																																																							"price": "Rs 349(50% Off)",
-																																																																																							"description": "",
-																																																																																							"imageLinks": "CHEMICAL.png",
-																																																																																							"category": "dtee",
-																																																																																							"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
-																																																																																							},
-																																																																																							{
-																																																																																								"name": "IIT Patna Physics Branch T-Shirt",
-																																																																																								"price": "Rs 349(50% Off)",
-																																																																																								"description": "",
-																																																																																								"imageLinks": "PHYSICS.png",
-																																																																																								"category": "dtee",
-																																																																																								"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
-																																																																																								},
-																																																																																								{
-																																																																																									"name": "IIT Patna Physics Branch T-Shirt",
-																																																																																									"price": "Rs 349(50% Off)",
-																																																																																									"description": "",
-																																																																																									"imageLinks": "CIVIL.png",
-																																																																																									"category": "dtee",
-																																																																																									"link": "https://forms.gle/q1ZYyZKyERE8zp1G7"
-																																																																																									},
-																																																																																									{
-																																																																																										"name": "9 TO 5 Humse Na Hoga",
-																																																																																										"price": "Rs 349(50% Off)",
-																																																																																										"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																										"imageLinks": "9 to 5 humse na hoga.png",
-																																																																																										"category": "en",
-																																																																																										"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																										},
-																																																																																										{
-																																																																																											"name": "Born To Be CEO",
-																																																																																											"price": "Rs 349(50% Off)",
-																																																																																											"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																											"imageLinks": "born to be ceo.png",
-																																																																																											"category": "en",
-																																																																																											"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																											},
-																																																																																											{
-																																																																																												"name": "Entreprenher",
-																																																																																												"price": "Rs 349(50% Off)",
-																																																																																												"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																												"imageLinks": "entreprenher.png",
-																																																																																												"category": "en",
-																																																																																												"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																												},
-																																																																																												{
-																																																																																													"name": "Entrpreneur Mantality",
-																																																																																													"price": "Rs 349(50% Off)",
-																																																																																													"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																													"imageLinks": "entrpreneur mantality.png",
-																																																																																													"category": "en",
-																																																																																													"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																													},
-																																																																																													{
-																																																																																														"name": "Founder",
-																																																																																														"price": "Rs 349(50% Off)",
-																																																																																														"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																														"imageLinks": "founder.png",
-																																																																																														"category": "en",
-																																																																																														"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																														},
-																																																																																														{
-																																																																																															"name": "Hard Work Pays Off",
-																																																																																															"price": "Rs 349(50% Off)",
-																																																																																															"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																															"imageLinks": "hard work pays off.png",
-																																																																																															"category": "en",
-																																																																																															"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																															},
-																																																																																															{
-																																																																																																"name": "Pyar Nahi Funding Chahiye",
-																																																																																																"price": "Rs 349(50% Off)",
-																																																																																																"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																																"imageLinks": "pyar nahi finding.png",
-																																																																																																"category": "en",
-																																																																																																"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																																},
-																																																																																																{
-																																																																																																	"name": "Pyar Nahi Startup Karo",
-																																																																																																	"price": "Rs 349(50% Off)",
-																																																																																																	"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																																	"imageLinks": "pyar nahi startup.png",
-																																																																																																	"category": "en",
-																																																																																																	"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																																	},
-																																																																																																	{
-																																																																																																		"name": "Self Made Self Paid",
-																																																																																																		"price": "Rs 349(50% Off)",
-																																																																																																		"description": "Hustle Mode Collection For The Entrpreneurs",
-																																																																																																		"imageLinks": "self made.png",
-																																																																																																		"category": "en",
-																																																																																																		"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
-																																																																																																		}
+																																																																										"description": "Hustle Mode Collection For The Entrpreneurs",
+																																																																										"imageLinks": "self made.png",
+																																																																										"category": "en",
+																																																																										"link": "https://forms.gle/SQx4QAWCNjbRVs6n8"
+																																																																										}
 
 																																																																																											
 																																																																																													
