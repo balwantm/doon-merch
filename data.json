@@ -107,16 +107,16 @@
 														"name": "IIT BHU Black T-Shirt",
 														"price": "Rs 399(50% Off)",
 														"description": "",
-														"imageLinks": "IIT BHU BLACK DESIGN 1.png",
-														"category": "Tee iit",
+														"imageLinks": "IIT BHU BLACK.png",
+														"category": "Tee && iitbhu",
 														"link": "https://forms.gle/MJspQ5bnKjNLZZF98"
 														},
 														{
 															"name": "IIT BHU White T-Shirt",
 															"price": "Rs 399(50% Off)",
 															"description": "",
-															"imageLinks": "IIT BHU WHITE DESIGN 1.png",
-															"category": "Tee iit",
+															"imageLinks": "IIT BHU WHITE.png",
+															"category": "Tee && iitbhu",
 															"link": "https://forms.gle/MJspQ5bnKjNLZZF98"
 															},
 															{
@@ -124,7 +124,7 @@
 																"price": "Rs 399(50% Off)",
 																"description": "",
 																"imageLinks": "IIT BHUBANESWAR BLACK.png",
-																"category": "Tee && && iitbbs",
+																"category": "Tee && iitbbs",
 																"link": "https://forms.gle/MJspQ5bnKjNLZZF98"
 																},
 																{
@@ -443,7 +443,7 @@
 																																																						"name": "IIT Bhilai Black Hoodie",
 																																																						"price": "Rs 799(50% Off)",
 																																																						"description": "",
-																																																						"imageLinks": "IIT BHILAI BLACK.png",
+																																																						"imageLinks": "IIT BHILAI BLACK HOOD.png",
 																																																						"category": "hood",
 																																																						"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																						},
@@ -451,7 +451,7 @@
 																																																							"name": "IIT Bhilai White Hoodie",
 																																																							"price": "Rs 799(50% Off)",
 																																																							"description": "",
-																																																							"imageLinks": "IIT BHILAI WHITE.png",
+																																																							"imageLinks": "IIT BHILAI WHITE HOOD.png",
 																																																							"category": "hood",
 																																																							"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																							},
@@ -459,7 +459,7 @@
 																																																								"name": "IIT BHU Black Hoodie",
 																																																								"price": "Rs 799(50% Off)",
 																																																								"description": "",
-																																																								"imageLinks": "IIT BHU BLACK DESIGN 1.png",
+																																																								"imageLinks": "IIT BHU BLACK HOOD.png",
 																																																								"category": "hood",
 																																																								"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																								},
@@ -467,7 +467,7 @@
 																																																									"name": "IIT BHU White Hoodie",
 																																																									"price": "Rs 799(50% Off)",
 																																																									"description": "",
-																																																									"imageLinks": "IIT BHU WHITE DESIGN 1.png",
+																																																									"imageLinks": "IIT BHU WHITE HOOD.png",
 																																																									"category": "hood",
 																																																									"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																									},
@@ -475,7 +475,7 @@
 																																																										"name": "IIT Bhubaneswar Black Hoodie",
 																																																										"price": "Rs 799(50% Off)",
 																																																										"description": "",
-																																																										"imageLinks": "IIT BHUBANESWAR BLACK.png",
+																																																										"imageLinks": "IIT BHUBANESWAR BLACK HOOD.png",
 																																																										"category": "hood",
 																																																										"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																										},
@@ -483,7 +483,7 @@
 																																																											"name": "IIT Bhubaneswar White Hoodie",
 																																																											"price": "Rs 799(50% Off)",
 																																																											"description": "",
-																																																											"imageLinks": "IIT BHUBANESWAR WHITE.png",
+																																																											"imageLinks": "IIT BHUBANESWAR WHITE HOOD.png",
 																																																											"category": "hood",
 																																																											"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																											},
@@ -491,7 +491,7 @@
 																																																												"name": "IIT Bombay Black Hoodie",
 																																																												"price": "Rs 799(50% Off)",
 																																																												"description": "",
-																																																												"imageLinks": "IIT BOMBAY BLACK.png",
+																																																												"imageLinks": "IIT BOMBAY BLACK HOOD.png",
 																																																												"category": "hood",
 																																																												"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																												},
@@ -499,7 +499,7 @@
 																																																													"name": "IIT Bombay White Hoodie",
 																																																													"price": "Rs 799(50% Off)",
 																																																													"description": "",
-																																																													"imageLinks": "IIT BOMBAY WHITE.png",
+																																																													"imageLinks": "IIT BOMBAY WHITE HOOD.png",
 																																																													"category": "hood",
 																																																													"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																													},
@@ -507,7 +507,7 @@
 																																																														"name": "IIT Delhi Black Hoodie",
 																																																														"price": "Rs 799(50% Off)",
 																																																														"description": "",
-																																																														"imageLinks": "IIT DELHI BLACK.png",
+																																																														"imageLinks": "IIT DELHI BLACK HOOD.png",
 																																																														"category": "hood",
 																																																														"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																														},
@@ -515,7 +515,7 @@
 																																																															"name": "IIT Delhi White Hoodie",
 																																																															"price": "Rs 799(50% Off)",
 																																																															"description": "",
-																																																															"imageLinks": "IIT DELHI WHITE.png",
+																																																															"imageLinks": "IIT DELHI WHITE HOOD.png",
 																																																															"category": "hood",
 																																																															"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																															},
@@ -523,7 +523,7 @@
 																																																																"name": "IIT Dhanbad Black Hoodie",
 																																																																"price": "Rs 799(50% Off)",
 																																																																"description": "",
-																																																																"imageLinks": "IIT DHANBAD BLACK.png",
+																																																																"imageLinks": "IIT DHANBAD BLACK HOOD.png",
 																																																																"category": "hood",
 																																																																"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																},
@@ -531,7 +531,7 @@
 																																																																	"name": "IIT Dhanbad White Hoodie",
 																																																																	"price": "Rs 799(50% Off)",
 																																																																	"description": "",
-																																																																	"imageLinks": "IIT DHANBAD WHITE.png",
+																																																																	"imageLinks": "IIT DHANBAD WHITE HOOD.png",
 																																																																	"category": "hood",
 																																																																	"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																	},
@@ -539,7 +539,7 @@
 																																																																		"name": "IIT Dharwad Black Hoodie",
 																																																																		"price": "Rs 799(50% Off)",
 																																																																		"description": "",
-																																																																		"imageLinks": "IIT DHARWAD BLACK.png",
+																																																																		"imageLinks": "IIT DHARWAD BLACK HOOD.png",
 																																																																		"category": "hood",
 																																																																		"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																		},
@@ -547,7 +547,7 @@
 																																																																			"name": "IIT Dharwad White Hoodie",
 																																																																			"price": "Rs 799(50% Off)",
 																																																																			"description": "",
-																																																																			"imageLinks": "IIT DHARWAD WHITE.png",
+																																																																			"imageLinks": "IIT DHARWAD WHITE HOOD.png",
 																																																																			"category": "hood",
 																																																																			"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																			},
@@ -555,7 +555,7 @@
 																																																																				"name": "IIT Gandhinagar Black Hoodie",
 																																																																				"price": "Rs 799(50% Off)",
 																																																																				"description": "",
-																																																																				"imageLinks": "IIT GANDHINAGAR BLACK.png",
+																																																																				"imageLinks": "IIT GANDHINAGAR BLACK HOOD.png",
 																																																																				"category": "hood",
 																																																																				"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																				},
@@ -563,7 +563,7 @@
 																																																																					"name": "IIT Gandhinagar White Hoodie",
 																																																																					"price": "Rs 799(50% Off)",
 																																																																					"description": "",
-																																																																					"imageLinks": "IIT GANDHINAGAR WHITE.png",
+																																																																					"imageLinks": "IIT GANDHINAGAR WHITE HOOD.png",
 																																																																					"category": "hood",
 																																																																					"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																					},
@@ -571,7 +571,7 @@
 																																																																						"name": "IIT Goa Black Hoodie",
 																																																																						"price": "Rs 799(50% Off)",
 																																																																						"description": "",
-																																																																						"imageLinks": "IIT GOA BLACK.png",
+																																																																						"imageLinks": "IIT GOA BLACK HOOD.png",
 																																																																						"category": "hood",
 																																																																						"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																						},
@@ -579,7 +579,7 @@
 																																																																							"name": "IIT Goa White Hoodie",
 																																																																							"price": "Rs 799(50% Off)",
 																																																																							"description": "",
-																																																																							"imageLinks": "IIT GOA WHITE.png",
+																																																																							"imageLinks": "IIT GOA WHITE HOOD.png",
 																																																																							"category": "hood",
 																																																																							"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																							},
@@ -587,7 +587,7 @@
 																																																																								"name": "IIT Guwahati Black Hoodie",
 																																																																								"price": "Rs 799(50% Off)",
 																																																																								"description": "",
-																																																																								"imageLinks": "IIT GUWAHATI BLACK.png",
+																																																																								"imageLinks": "IIT GUWAHATI BLACK HOOD.png",
 																																																																								"category": "hood",
 																																																																								"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																								},
@@ -595,7 +595,7 @@
 																																																																									"name": "IIT Guwahati White Hoodie",
 																																																																									"price": "Rs 799(50% Off)",
 																																																																									"description": "",
-																																																																									"imageLinks": "IIT GHWAHATI WHITE.png",
+																																																																									"imageLinks": "IIT GHWAHATI WHITE HOOD.png",
 																																																																									"category": "hood",
 																																																																									"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																									},
@@ -603,7 +603,7 @@
 																																																																										"name": "IIT Hyderabad Black Hoodie",
 																																																																										"price": "Rs 799(50% Off)",
 																																																																										"description": "",
-																																																																										"imageLinks": "IIT HYDERABAD BLACK.png",
+																																																																										"imageLinks": "IIT HYDERABAD BLACK HOOD.png",
 																																																																										"category": "hood",
 																																																																										"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																										},
@@ -611,7 +611,7 @@
 																																																																											"name": "IIT Hyderabad White Hoodie",
 																																																																											"price": "Rs 799(50% Off)",
 																																																																											"description": "",
-																																																																											"imageLinks": "IIT HYDERABAD WHITE.png",
+																																																																											"imageLinks": "IIT HYDERABAD WHITE HOOD.png",
 																																																																											"category": "hood",
 																																																																											"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																											},
@@ -619,7 +619,7 @@
 																																																																												"name": "IIT Indore Black Hoodie",
 																																																																												"price": "Rs 799(50% Off)",
 																																																																												"description": "",
-																																																																												"imageLinks": "IIT INDORE BLACK.png",
+																																																																												"imageLinks": "IIT INDORE BLACK HOOD.png",
 																																																																												"category": "hood",
 																																																																												"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																												},
@@ -627,7 +627,7 @@
 																																																																													"name": "IIT Indore White Hoodie",
 																																																																													"price": "Rs 799(50% Off)",
 																																																																													"description": "",
-																																																																													"imageLinks": "IIT INDORE WHITE.png",
+																																																																													"imageLinks": "IIT INDORE WHITE HOOD.png",
 																																																																													"category": "hood",
 																																																																													"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																													},
@@ -635,7 +635,7 @@
 																																																																														"name": "IIT Jammu Black Hoodie",
 																																																																														"price": "Rs 799(50% Off)",
 																																																																														"description": "",
-																																																																														"imageLinks": "IIT JAMMU BLACK.png",
+																																																																														"imageLinks": "IIT JAMMU BLACK HOOD.png",
 																																																																														"category": "hood",
 																																																																														"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																														},
@@ -643,7 +643,7 @@
 																																																																															"name": "IIT Jammu White Hoodie",
 																																																																															"price": "Rs 799(50% Off)",
 																																																																															"description": "",
-																																																																															"imageLinks": "IIT JAMMU WHITE.png",
+																																																																															"imageLinks": "IIT JAMMU WHITE HOOD.png",
 																																																																															"category": "hood",
 																																																																															"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																															},
@@ -651,7 +651,7 @@
 																																																																																"name": "IIT Jodhpur Black Hoodie",
 																																																																																"price": "Rs 799(50% Off)",
 																																																																																"description": "",
-																																																																																"imageLinks": "IIT JODHPUR BLACK.png",
+																																																																																"imageLinks": "IIT JODHPUR BLACK HOOD.png",
 																																																																																"category": "hood",
 																																																																																"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																},
@@ -659,7 +659,7 @@
 																																																																																	"name": "IIT Jodhpur White Hoodie",
 																																																																																	"price": "Rs 799(50% Off)",
 																																																																																	"description": "",
-																																																																																	"imageLinks": "IIT JODHPUR WHITE.png",
+																																																																																	"imageLinks": "IIT JODHPUR WHITE HOOD.png",
 																																																																																	"category": "hood",
 																																																																																	"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																	},
@@ -667,7 +667,7 @@
 																																																																																		"name": "IIT Kanpur Black Hoodie",
 																																																																																		"price": "Rs 799(50% Off)",
 																																																																																		"description": "",
-																																																																																		"imageLinks": "IIT KANPUR BLACK.png",
+																																																																																		"imageLinks": "IIT KANPUR BLACK HOOD.png",
 																																																																																		"category": "hood",
 																																																																																		"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																		},
@@ -675,7 +675,7 @@
 																																																																																			"name": "IIT Kanpur White Hoodie",
 																																																																																			"price": "Rs 799(50% Off)",
 																																																																																			"description": "",
-																																																																																			"imageLinks": "IIT KANPUR WHITE.png",
+																																																																																			"imageLinks": "IIT KANPUR WHITE HOOD.png",
 																																																																																			"category": "hood",
 																																																																																			"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																			},
@@ -683,7 +683,7 @@
 																																																																																				"name": "IIT KGP Black Hoodie",
 																																																																																				"price": "Rs 799(50% Off)",
 																																																																																				"description": "",
-																																																																																				"imageLinks": "IIT KGP BLACK.png",
+																																																																																				"imageLinks": "IIT KGP BLACK HOOD.png",
 																																																																																				"category": "hood",
 																																																																																				"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																				},
@@ -691,7 +691,7 @@
 																																																																																					"name": "IIT KGP White Hoodie",
 																																																																																					"price": "Rs 799(50% Off)",
 																																																																																					"description": "",
-																																																																																					"imageLinks": "IIT KGP WHITE.png",
+																																																																																					"imageLinks": "IIT KGP WHITE HOOD.png",
 																																																																																					"category": "hood",
 																																																																																					"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																					},
@@ -699,7 +699,7 @@
 																																																																																						"name": "IIT Madras Black Hoodie",
 																																																																																						"price": "Rs 799(50% Off)",
 																																																																																						"description": "",
-																																																																																						"imageLinks": "IIT MADRAS BLACK.png",
+																																																																																						"imageLinks": "IIT MADRAS BLACK HOOD.png",
 																																																																																						"category": "hood",
 																																																																																						"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																						},
@@ -707,7 +707,7 @@
 																																																																																							"name": "IIT Madras White Hoodie",
 																																																																																							"price": "Rs 799(50% Off)",
 																																																																																							"description": "",
-																																																																																							"imageLinks": "IIT MADRAS WHITE.png",
+																																																																																							"imageLinks": "IIT MADRAS WHITE HOOD.png",
 																																																																																							"category": "hood",
 																																																																																							"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																							},
@@ -715,7 +715,7 @@
 																																																																																								"name": "IIT Mandi Black Hoodie",
 																																																																																								"price": "Rs 799(50% Off)",
 																																																																																								"description": "",
-																																																																																								"imageLinks": "IIT MANDI BLACK.png",
+																																																																																								"imageLinks": "IIT MANDI BLACK HOOD.png",
 																																																																																								"category": "hood",
 																																																																																								"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																								},
@@ -723,7 +723,7 @@
 																																																																																									"name": "IIT Mandi White Hoodie",
 																																																																																									"price": "Rs 799(50% Off)",
 																																																																																									"description": "",
-																																																																																									"imageLinks": "IIT MANDI WHITE.png",
+																																																																																									"imageLinks": "IIT MANDI WHITE HOOD.png",
 																																																																																									"category": "hood",
 																																																																																									"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																									},
@@ -731,7 +731,7 @@
 																																																																																										"name": "IIT Palakkad Black Hoodie",
 																																																																																										"price": "Rs 799(50% Off)",
 																																																																																										"description": "",
-																																																																																										"imageLinks": "IIT PALAKKAD BLACK.png",
+																																																																																										"imageLinks": "IIT PALAKKAD BLACK HOOD.png",
 																																																																																										"category": "hood",
 																																																																																										"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																										},
@@ -739,7 +739,7 @@
 																																																																																											"name": "IIT Palakkad White Hoodie",
 																																																																																											"price": "Rs 799(50% Off)",
 																																																																																											"description": "",
-																																																																																											"imageLinks": "IIT PALAKKAD WHITE.png",
+																																																																																											"imageLinks": "IIT PALAKKAD WHITE HOOD.png",
 																																																																																											"category": "hood",
 																																																																																											"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																											},
@@ -747,7 +747,7 @@
 																																																																																												"name": "IIT Roorkee Black Hoodie",
 																																																																																												"price": "Rs 799(50% Off)",
 																																																																																												"description": "",
-																																																																																												"imageLinks": "IIT ROORKEE BLACK.png",
+																																																																																												"imageLinks": "IIT ROORKEE BLACK HOOD.png",
 																																																																																												"category": "hood",
 																																																																																												"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																												},
@@ -755,7 +755,7 @@
 																																																																																													"name": "IIT Roorkee White Hoodie",
 																																																																																													"price": "Rs 799(50% Off)",
 																																																																																													"description": "",
-																																																																																													"imageLinks": "IIT ROORKEE WHITE.png",
+																																																																																													"imageLinks": "IIT ROORKEE WHITE HOOD.png",
 																																																																																													"category": "hood",
 																																																																																													"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																													},
@@ -763,7 +763,7 @@
 																																																																																												"name": "IIT Ropar Black Hoodie",
 																																																																																												"price": "Rs 799(50% Off)",
 																																																																																												"description": "",
-																																																																																												"imageLinks": "IIT ROPAR BLACK.png",
+																																																																																												"imageLinks": "IIT ROPAR BLACK HOOD.png",
 																																																																																												"category": "hood",
 																																																																																												"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																												},
@@ -771,7 +771,7 @@
 																																																																																													"name": "IIT Ropar White Hoodie",
 																																																																																													"price": "Rs 799(50% Off)",
 																																																																																													"description": "",
-																																																																																													"imageLinks": "IIT ROPAR WHITE.png",
+																																																																																													"imageLinks": "IIT ROPAR WHITE HOOD.png",
 																																																																																													"category": "hood",
 																																																																																													"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																													},
@@ -779,7 +779,7 @@
 																																																																																														"name": "IIT Tirupati Black Hoodie",
 																																																																																														"price": "Rs 799(50% Off)",
 																																																																																														"description": "",
-																																																																																														"imageLinks": "IIT TIRUPATI BLACK.png",
+																																																																																														"imageLinks": "IIT TIRUPATI BLACK HOOD.png",
 																																																																																														"category": "hood",
 																																																																																														"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																														},
@@ -787,7 +787,7 @@
 																																																																																															"name": "IIT Tirupati White Hoodie",
 																																																																																															"price": "Rs 799(50% Off)",
 																																																																																															"description": "",
-																																																																																															"imageLinks": "IIT TIRUPATI WHITE.png",
+																																																																																															"imageLinks": "IIT TIRUPATI WHITE HOOD.png",
 																																																																																															"category": "hood",
 																																																																																															"link": "https://forms.gle/ex9gtS4maA97qDCC6"
 																																																																																															},
