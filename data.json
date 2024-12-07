@@ -1,36 +1,44 @@
 [
 	{
-		"name": "Doon IITs Hoodie Collection",
+		"name": "Doon IIT's Hoodie Collection",
 		"price": "Rs 799(10% Off)",
 		"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
 		"imageLinks": "IIT HOOD.png",
-		"category": "DIHC",
+		"category": "DIHC && HOOD",
 		"link": "https://forms.gle/c9qGFP7knR76txUBA"
 		},
 		{
-			"name": "Doon IITs Tracksuit Collection",
+			"name": "Doon IIT's Tracksuit Collection",
 			"price": "Rs 849(10% Off)",
 			"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-			"imageLinks": "TRACK SAMPLE.png",
-			"category": "DITC",
+			"imageLinks": "IIT TRACK.png",
+			"category": "DITC && SUIT",
 			"link": "https://forms.gle/LfVABADJSrwoNN5j8"
 			},
 			{
-				"name": "Doon NITs Hoodie Collection",
+				"name": "Doon NIT's Hoodie Collection",
 				"price": "Rs 799(10% Off)",
 				"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-				"imageLinks": "NIT HOOD SAMPLE.png",
-				"category": "DNHC",
+				"imageLinks": "NIT HOOD.png",
+				"category": "DNHC && HOOD",
 				"link": "https://forms.gle/oMDGQ9jp9osoqRts7"
 				},
 				{
-					"name": "Doon NITs Tracksuit Collection",
+					"name": "Doon NIT's Tracksuit Collection",
 					"price": "Rs 849(10% Off)",
 					"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-					"imageLinks": "NIT TRACK SAMPLE.png",
-					"category": "DNTC",
+					"imageLinks": "NIT TRACK.png",
+					"category": "DNTC && SUIT",
 					"link": "https://forms.gle/bUFu4t6jnXyRga3aA"
-					}
+					},
+					{
+						"name": "Doon Varsity Jacket Collection",
+						"price": "Rs 849(10% Off)",
+						"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+						"imageLinks": "VARSITY.png",
+						"category": "VAR && DVJC",
+						"link": "https://forms.gle/bUFu4t6jnXyRga3aA"
+						}
 
 
 ]																																																																																																																									
