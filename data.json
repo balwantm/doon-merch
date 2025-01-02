@@ -1,44 +1,20 @@
 [
 	{
-		"name": "Doon IIT's Hoodie Collection",
-		"price": "Rs 749(10% Off)",
+		"name": "IIT Bhilai Hoodie Collection",
+		"price": "Rs 799(10% Off)",
 		"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-		"imageLinks": "IIT HOOD.png",
+		"imageLinks": "IIT BHILAI BACK.png",
 		"category": "DIHC && HOOD",
 		"link": "https://forms.gle/c9qGFP7knR76txUBA"
 		},
 		{
-			"name": "Doon IIT's Tracksuit Collection",
-			"price": "Rs 849(10% Off)",
+			"name": "IIT BHU(Varanasi) Hoodie Collection",
+			"price": "Rs 799(10% Off)",
 			"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-			"imageLinks": "IIT TRACK.png",
-			"category": "DITC && SUIT",
-			"link": "https://forms.gle/LfVABADJSrwoNN5j8"
-			},
-					{
-						"name": "Doon Varsity Jacket Collection",
-						"price": "Rs 849(10% Off)",
-						"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-						"imageLinks": "VARSITY.png",
-						"category": "VAR && DVJC",
-						"link": "https://forms.gle/TNDd5GcMdKncNWALA"
-						},
-						{
-							"name": "Doon IIT Patna Winter Collection",
-							"price": "Rs 749(10% Off)",
-							"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
-							"imageLinks": "IITP HOOD.png",
-							"category": "HOOD && DIPWC",
-							"link": "https://forms.gle/bA9oiXd8ugC9qDwC9"
-							},
-							{
-								"name": "Doon IIT's T-Shirt Collection",
-								"price": "Rs 349(10% Off)",
-								"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
-								"imageLinks": "IIT T-SHIRT.png",
-								"category": "DIPWC && TEE",
-								"link": "https://forms.gle/Ygae7EQYMV4VD5WW6"
-								}
+			"imageLinks": "IIT BHU BACK.png",
+			"category": "DIHC && HOOD",
+			"link": "https://forms.gle/c9qGFP7knR76txUBA"
+			}
 
 
 ]																																																																																																																									
