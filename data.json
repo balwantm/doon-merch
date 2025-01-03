@@ -1,5 +1,77 @@
 [
 	{
+		"name": "IIT (BHU) Varanasi T-Shirt Collection",
+		"price": "Rs 349(10% Off)",
+		"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+		"imageLinks": "IIT (BHU) Varanasi.png",
+		"category": "Tee",
+		"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+		},
+		{
+			"name": "IIT (ISM) Dhanbad T-Shirt Collection",
+			"price": "Rs 349(10% Off)",
+			"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+			"imageLinks": "IIT (ISM) Dhanbad.png",
+			"category": "Tee",
+			"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+			},
+			{
+				"name": "IIT Bhilai T-Shirt Collection",
+				"price": "Rs 349(10% Off)",
+				"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+				"imageLinks": "IIT Bhilai.png",
+				"category": "Tee",
+				"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+				},
+				{
+					"name": "IIT Bhubaneswar T-Shirt Collection",
+					"price": "Rs 349(10% Off)",
+					"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+					"imageLinks": "IIT Bhubaneswar.png",
+					"category": "Tee",
+					"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+					},
+					{
+						"name": "IIT Bombay T-Shirt Collection",
+						"price": "Rs 349(10% Off)",
+						"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+						"imageLinks": "IIT Bombay.png",
+						"category": "Tee",
+						"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+						},
+						{
+							"name": "IIT Delhi T-Shirt Collection",
+							"price": "Rs 349(10% Off)",
+							"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+							"imageLinks": "IIT Delhi.png",
+							"category": "Tee",
+							"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+							},
+							{
+								"name": "IIT Dharwad T-Shirt Collection",
+								"price": "Rs 349(10% Off)",
+								"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+								"imageLinks": "IIT Dharwad.png",
+								"category": "Tee",
+								"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+								},
+								{
+									"name": "IIT Gandhinagar T-Shirt Collection",
+									"price": "Rs 349(10% Off)",
+									"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+									"imageLinks": "IIT Gandhinagar.png",
+									"category": "Tee",
+									"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+									},
+									{
+										"name": "IIT Goa T-Shirt Collection",
+										"price": "Rs 349(10% Off)",
+										"description": "Material: Premium Heavy Weight 180 GSM Pure Cotton",
+										"imageLinks": "IIT Goa.png",
+										"category": "Tee",
+										"link": "https://forms.gle/UduP33fqHaxuHnDf6"
+										},
+	{
 		"name": "IIT Bhilai Hoodie Collection",
 		"price": "Rs 799(10% Off)",
 		"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
