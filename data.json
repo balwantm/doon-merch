@@ -422,7 +422,64 @@
 								"imageLinks": "IIT PATNA BACK.png",
 								"category": "DIHC && HOOD",
 								"link": "https://forms.gle/1X4TWNKGLmJhBuNa7"
-								}
+								},
+                                {
+									"name": "IIT Bhilai Tracksuit",
+									"price": "Rs 849(10% Off)",
+									"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+									"imageLinks": "IIT BHILAI TRACKSUIT.png",
+									"category": "",
+									"link": "https://forms.gle/c9qGFP7knR76txUBA"
+									},
+									{
+										"name": "IIT BHU(Varanasi) Tracksuit",
+										"price": "Rs 849(10% Off)",
+										"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+										"imageLinks": "IIT BHU TRACKSUIT.png",
+										"category": "",
+										"link": "https://forms.gle/c9qGFP7knR76txUBA"
+										},
+										{
+											"name": "IIT Bombay Tracksuit",
+											"price": "Rs 849(10% Off)",
+											"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+											"imageLinks": "IIT BOMBAY TRACKSUIT.png",
+											"category": "",
+											"link": "https://forms.gle/c9qGFP7knR76txUBA"
+											},
+											{
+												"name": "IIT Delhi Tracksuit",
+												"price": "Rs 849(10% Off)",
+												"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+												"imageLinks": "IIT DELHI TRACKSUIT.png",
+												"category": "",
+												"link": "https://forms.gle/c9qGFP7knR76txUBA"
+												},
+												{
+													"name": "IIT(ISM) Dhanbad Tracksuit",
+													"price": "Rs 849(10% Off)",
+													"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+													"imageLinks": "IIT ISM TRACKSUIT.png",
+													"category": "",
+													"link": "https://forms.gle/c9qGFP7knR76txUBA"
+													},
+													{
+														"name": "IIT Jammu Tracksuit",
+														"price": "Rs 849(10% Off)",
+														"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+														"imageLinks": "IIT JAMMU TRACKSUIT.png",
+														"category": "",
+														"link": "https://forms.gle/c9qGFP7knR76txUBA"
+														},
+														{
+															"name": "IIT Patna Tracksuit",
+															"price": "Rs 849(10% Off)",
+															"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+															"imageLinks": "IIT PATNA TRACKSUIT.png",
+															"category": "",
+															"link": "https://forms.gle/1X4TWNKGLmJhBuNa7"
+															}																
+
 
 
 ]																																																																																																																									
