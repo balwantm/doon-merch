@@ -428,7 +428,7 @@
 									"price": "Rs 849(10% Off)",
 									"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
 									"imageLinks": "IIT BHILAI TRACKSUIT.png",
-									"category": "SUTI",
+									"category": "SUIT",
 									"link": "https://forms.gle/npLEXPNypmfNkDPH8"
 									},
 									{
@@ -478,7 +478,63 @@
 															"imageLinks": "IIT PATNA TRACKSUIT.png",
 															"category": "SUIT",
 															"link": "https://forms.gle/npLEXPNypmfNkDPH8"
-															}																
+															},
+															{
+																"name": "IIT Bhilai Varsity Jacket",
+																"price": "Rs 849(10% Off)",
+																"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																"imageLinks": "IIT BHILAI.png",
+																"category": "VAR",
+																"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																},
+																{
+																	"name": "IIT BHU(Varanasi) Varsity Jacket",
+																	"price": "Rs 849(10% Off)",
+																	"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																	"imageLinks": "IIT BHU.png",
+																	"category": "VAR",
+																	"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																	},
+																	{
+																		"name": "IIT Bombay Varsity Jacket",
+																		"price": "Rs 849(10% Off)",
+																		"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																		"imageLinks": "IIT BOMBAY.png",
+																		"category": "VAR",
+																		"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																		},
+																		{
+																			"name": "IIT Delhi Varsity Jacket",
+																			"price": "Rs 849(10% Off)",
+																			"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																			"imageLinks": "IIT DELHI.png",
+																			"category": "VAR",
+																			"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																			},
+																			{
+																				"name": "IIT(ISM) Dhanbad Varsity Jacket",
+																				"price": "Rs 849(10% Off)",
+																				"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																				"imageLinks": "IIT DHANBAD.png",
+																				"category": "VAR",
+																				"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																				},
+																				{
+																					"name": "IIT Jammu Varsity Jacket",
+																					"price": "Rs 849(10% Off)",
+																					"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																					"imageLinks": "IIT JAMMU.png",
+																					"category": "VAR",
+																					"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																					},
+																					{
+																						"name": "IIT Patna Varsity Jacket",
+																						"price": "Rs 849(10% Off)",
+																						"description": "Material: Premium Heavy Weight 350 GSM Pure Cotton",
+																						"imageLinks": "IIT PATNA Varsity Jacket.png",
+																						"category": "VAR",
+																						"link": "https://forms.gle/qWzywLzrGcuhQwb88"
+																						}																
 
 
 
