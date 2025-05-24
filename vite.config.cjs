@@ -13,7 +13,6 @@ module.exports = defineConfig({
       input: {
         about: resolve(__dirname, '/about.html'),
         main: resolve(__dirname, 'index.html'),
-        team: resolve(__dirname, '/team.html'),
 
         // aboutjs: resolve(__dirname, 'about.js')
       },
